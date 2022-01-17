@@ -1,0 +1,675 @@
+﻿begindelays
+DataDelay=0
+CellDelay=0,2
+FormDelay=0,25
+KeyHold=50
+SystemHold=50
+HourGlass=250
+TAB=0
+ENT=0
+*UP=0
+*DN=0
+*LT=0
+*RT=0
+*SP=0
+*SAVE=0
+*NB=0
+*PB=0
+*NF=0
+*PF=0
+*NR=0
+*PR=0
+*FR=0
+*LR=0
+*ER=0
+*DR=0
+*SB=0
+*ST=0
+*BM=0
+*QE=0
+*QR=0
+*FI=0
+*FA=0
+*IR=0
+*CL=0
+*FE=0
+*AA=0
+*AB=0
+*AC=0
+*AD=0
+*AE=0
+*AF=0
+*AG=0
+*AH=0
+*AI=0
+*AJ=0
+*AK=0
+*AL=0
+*AM=0
+*AN=0
+*AO=0
+*AP=0
+*AQ=0
+*AR=0
+*AS=0
+*AT=0
+*AU=0
+*AV=0
+*AW=0
+*AX=0
+*AY=0
+*AZ=0
+enddelays
+beginheader
+*QE	PN	*QR	*AT	ENT	*LR	*NR	Não mudar	TAB	NCM	*SAVE	Key Strokes	Data	Data	Data	Data	Data	Data	Não mudar	Data	Descrição em português	Data	Data	Data	Não mudar	Data	Não mudar	Data	Não mudar	Data	Item Origin	Data	Tipo de item	Data	Não mudar	Data	Não mudar	Data	Data	Data	Data																																																																																																				
+
+000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+endheader
+beginother
+Window=Oracle Applications - GLTEST Cloned From GLPROD on 25-Apr-21
+Description=
+CommandGroup=EBS - R12
+PasteCtrlV=1
+endother
+begindata
+*QE	5491051	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84718000	*SAVE	\^{F4}																													
+*QE	5492087	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90229090	*SAVE	\^{F4}																													
+*QE	5492162	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84715010	*SAVE	\^{F4}																													
+*QE	5492390-4	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85447010	*SAVE	\^{F4}																													
+*QE	5494666-3	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	5495621-5-S	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85235190	*SAVE	\^{F4}																													
+*QE	5495652-2	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85044021	*SAVE	\^{F4}																													
+*QE	5495760	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85065010	*SAVE	\^{F4}																													
+*QE	5495765	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84718000	*SAVE	\^{F4}																													
+*QE	5495846-12S	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85235190	*SAVE	\^{F4}																													
+*QE	5497727-9	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85234990	*SAVE	\^{F4}																													
+*QE	5497728-2	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85234920	*SAVE	\^{F4}																													
+*QE	5497736	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	83024200	*SAVE	\^{F4}																													
+*QE	5498045	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90229090	*SAVE	\^{F4}																													
+*QE	5498090	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85442000	*SAVE	\^{F4}																													
+*QE	5498268-2	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90318099	*SAVE	\^{F4}																													
+*QE	5526844-2	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90229090	*SAVE	\^{F4}																													
+*QE	5498484	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85285220	*SAVE	\^{F4}																													
+*QE	5499516	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181210	*SAVE	\^{F4}																													
+*QE	5499597	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181210	*SAVE	\^{F4}																													
+*QE	5499597-R	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181210	*SAVE	\^{F4}																													
+*QE	5499958	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181290	*SAVE	\^{F4}																													
+*QE	5501560-141	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85285220	*SAVE	\^{F4}																													
+*QE	5503029	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90229090	*SAVE	\^{F4}																													
+*QE	5504492-01	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85471000	*SAVE	\^{F4}																													
+*QE	5504642-04	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84715010	*SAVE	\^{F4}																													
+*QE	5505990	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85371090	*SAVE	\^{F4}																													
+*QE	5505992	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85285220	*SAVE	\^{F4}																													
+*QE	5507300-4	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85234920	*SAVE	\^{F4}																													
+*QE	5507301-6	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85234990	*SAVE	\^{F4}																													
+*QE	5507743	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	5508397	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85446000	*SAVE	\^{F4}																													
+*QE	5507798	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85489090	*SAVE	\^{F4}																													
+*QE	5509461-1	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	40169990	*SAVE	\^{F4}																													
+*QE	5509462-1	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	40169990	*SAVE	\^{F4}																													
+*QE	5513688	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85011019	*SAVE	\^{F4}																													
+*QE	5513996	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85235190	*SAVE	\^{F4}																													
+*QE	5526852	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85234920	*SAVE	\^{F4}																													
+*QE	5534644	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181300	*SAVE	\^{F4}																													
+*QE	5535180-17	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85235190	*SAVE	\^{F4}																													
+*QE	5535180-19	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85235190	*SAVE	\^{F4}																													
+*QE	5537638-S	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85044030	*SAVE	\^{F4}																													
+*QE	5542845	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90229090	*SAVE	\^{F4}																													
+*QE	5543121-3	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85176259	*SAVE	\^{F4}																													
+*QE	5543268	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84834010	*SAVE	\^{F4}																													
+*QE	5549119-100	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84733042	*SAVE	\^{F4}																													
+*QE	5551110-2	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	5554484	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90319090	*SAVE	\^{F4}																													
+*QE	5554497	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90319090	*SAVE	\^{F4}																													
+*QE	5554808	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90229090	*SAVE	\^{F4}																													
+*QE	5554840	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	39269090	*SAVE	\^{F4}																													
+*QE	5555200	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84718000	*SAVE	\^{F4}																													
+*QE	5555003-5	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90229090	*SAVE	\^{F4}																													
+*QE	5555005-10-R	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90229090	*SAVE	\^{F4}																													
+*QE	5571630	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	5589750-3	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85052090	*SAVE	\^{F4}																													
+*QE	5603961	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90318099	*SAVE	\^{F4}																													
+*QE	5611052-S	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85182100	*SAVE	\^{F4}																													
+*QE	5653692-S	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85076000	*SAVE	\^{F4}																													
+*QE	5692801-7	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85234990	*SAVE	\^{F4}																													
+*QE	5700000-26	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84718000	*SAVE	\^{F4}																													
+*QE	5700000-29	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84717012	*SAVE	\^{F4}																													
+*QE	5720091-S	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85371090	*SAVE	\^{F4}																													
+*QE	5720770-2	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85444200	*SAVE	\^{F4}																													
+*QE	5723262-2	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85437099	*SAVE	\^{F4}																													
+*QE	5723262-3	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85437099	*SAVE	\^{F4}																													
+*QE	5746644	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85489090	*SAVE	\^{F4}																													
+*QE	5750178-4	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85235190	*SAVE	\^{F4}																													
+*QE	5755012-2	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85414027	*SAVE	\^{F4}																													
+*QE	5759091-S	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	5771373	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90318099	*SAVE	\^{F4}																													
+*QE	5774103-21	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85285220	*SAVE	\^{F4}																													
+*QE	5792103	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84834010	*SAVE	\^{F4}																													
+*QE	5810000-7-R	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84717012	*SAVE	\^{F4}																													
+*QE	5561770	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85234990	*SAVE	\^{F4}																													
+*QE	5566224	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	5573638-2-R	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	5589401-2-R	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85255029	*SAVE	\^{F4}																													
+*QE	5573685	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84718000	*SAVE	\^{F4}																													
+*QE	5573790-2	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	39173290	*SAVE	\^{F4}																													
+*QE	5582665	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	5582826	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90229090	*SAVE	\^{F4}																													
+*QE	5582885	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	5582898	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	5582900	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90229090	*SAVE	\^{F4}																													
+*QE	5582915	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90229090	*SAVE	\^{F4}																													
+*QE	5588975	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85044030	*SAVE	\^{F4}																													
+*QE	5588977	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85371090	*SAVE	\^{F4}																													
+*QE	5589069	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85044040	*SAVE	\^{F4}																													
+*QE	5589529-2S	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	5589723	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85371090	*SAVE	\^{F4}																													
+*QE	5599282	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	94029090	*SAVE	\^{F4}																													
+*QE	5611023	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85371090	*SAVE	\^{F4}																													
+*QE	5611574	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84715010	*SAVE	\^{F4}																													
+*QE	5611621	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85015120	*SAVE	\^{F4}																													
+*QE	5611670	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84717012	*SAVE	\^{F4}																													
+*QE	5620316-S	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84716052	*SAVE	\^{F4}																													
+*QE	5661378-S	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	5620786	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90229090	*SAVE	\^{F4}																													
+*QE	5620815	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85444200	*SAVE	\^{F4}																													
+*QE	5627866	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85371090	*SAVE	\^{F4}																													
+*QE	5627870	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85371090	*SAVE	\^{F4}																													
+*QE	5641078-7	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85234920	*SAVE	\^{F4}																													
+*QE	5641217	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85044040	*SAVE	\^{F4}																													
+*QE	5641321	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90229090	*SAVE	\^{F4}																													
+*QE	5653992	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84819090	*SAVE	\^{F4}																													
+*QE	5654159	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90229090	*SAVE	\^{F4}																													
+*QE	5654267	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85181090	*SAVE	\^{F4}																													
+*QE	5654269	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85015110	*SAVE	\^{F4}																													
+*QE	5654315	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84733042	*SAVE	\^{F4}																													
+*QE	5654355	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85442000	*SAVE	\^{F4}																													
+*QE	5654366	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85411099	*SAVE	\^{F4}																													
+*QE	5654387	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84733041	*SAVE	\^{F4}																													
+*QE	5661230-1	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85044030	*SAVE	\^{F4}																													
+*QE	5661380-S	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	5661387-S	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85369090	*SAVE	\^{F4}																													
+*QE	5661565	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85072010	*SAVE	\^{F4}																													
+*QE	5661922	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85011019	*SAVE	\^{F4}																													
+*QE	5669584	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85444200	*SAVE	\^{F4}																													
+*QE	5669734	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85285920	*SAVE	\^{F4}																													
+*QE	5692352-S	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	5693067-2	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84814000	*SAVE	\^{F4}																													
+*QE	5694056-S	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84717012	*SAVE	\^{F4}																													
+*QE	5694762-S	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	5696925	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	49019900	*SAVE	\^{F4}																													
+*QE	5714962	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85444200	*SAVE	\^{F4}																													
+*QE	5715135	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90229090	*SAVE	\^{F4}																													
+*QE	5718142-5	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85234990	*SAVE	\^{F4}																													
+*QE	5718143-5	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85234990	*SAVE	\^{F4}																													
+*QE	5718780-S	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	5719042	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90229090	*SAVE	\^{F4}																													
+*QE	5719049-2	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90229090	*SAVE	\^{F4}																													
+*QE	5719206-10S	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85235190	*SAVE	\^{F4}																													
+*QE	5719206-7S	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85235190	*SAVE	\^{F4}																													
+*QE	5719717	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181410	*SAVE	\^{F4}																													
+*QE	5719722	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	39173900	*SAVE	\^{F4}																													
+*QE	5719798	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85234920	*SAVE	\^{F4}																													
+*QE	5720159-3	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85444200	*SAVE	\^{F4}																													
+*QE	5720614-17	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85234990	*SAVE	\^{F4}																													
+*QE	5721366	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85444200	*SAVE	\^{F4}																													
+*QE	5722794-2	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	5723187	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90229090	*SAVE	\^{F4}																													
+*QE	5723820	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181300	*SAVE	\^{F4}																													
+*QE	5724176	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85235190	*SAVE	\^{F4}																													
+*QE	5725243	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181210	*SAVE	\^{F4}																													
+*QE	5725306	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85365090	*SAVE	\^{F4}																													
+*QE	5725308	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181210	*SAVE	\^{F4}																													
+*QE	5725251-2	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85389090	*SAVE	\^{F4}																													
+*QE	5725576	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84145990	*SAVE	\^{F4}																													
+*QE	5725649-S	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	5725996	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85444200	*SAVE	\^{F4}																													
+*QE	5726719-10	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85235190	*SAVE	\^{F4}																													
+*QE	5750178-13	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85235190	*SAVE	\^{F4}																													
+*QE	5726719-11	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85235190	*SAVE	\^{F4}																													
+*QE	5726719-12	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85235190	*SAVE	\^{F4}																													
+*QE	5728874	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85444200	*SAVE	\^{F4}																													
+*QE	5728876	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85444200	*SAVE	\^{F4}																													
+*QE	5729429	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181210	*SAVE	\^{F4}																													
+*QE	5729431-R	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181210	*SAVE	\^{F4}																													
+*QE	5729433	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181210	*SAVE	\^{F4}																													
+*QE	5729972	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84718000	*SAVE	\^{F4}																													
+*QE	5731040	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90229090	*SAVE	\^{F4}																													
+*QE	5731710	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90229090	*SAVE	\^{F4}																													
+*QE	5736197	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85234920	*SAVE	\^{F4}																													
+*QE	5736738	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85234920	*SAVE	\^{F4}																													
+*QE	5737357	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85444200	*SAVE	\^{F4}																													
+*QE	5736729	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	82041100	*SAVE	\^{F4}																													
+*QE	5737000-3	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85234920	*SAVE	\^{F4}																													
+*QE	5737488-S	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84715010	*SAVE	\^{F4}																													
+*QE	5737728	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85044029	*SAVE	\^{F4}																													
+*QE	5746248	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	5746251	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181300	*SAVE	\^{F4}																													
+*QE	5746810	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85012000	*SAVE	\^{F4}																													
+*QE	5746586	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181300	*SAVE	\^{F4}																													
+*QE	5746588	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181300	*SAVE	\^{F4}																													
+*QE	5747625-2	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	73269090	*SAVE	\^{F4}																													
+*QE	5748768	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85444200	*SAVE	\^{F4}																													
+*QE	5748776	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85444200	*SAVE	\^{F4}																													
+*QE	5750178-8	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85235190	*SAVE	\^{F4}																													
+*QE	5750261-2S	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	5750826-S	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84716053	*SAVE	\^{F4}																													
+*QE	5754454	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84718000	*SAVE	\^{F4}																													
+*QE	5754644	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84717029	*SAVE	\^{F4}																													
+*QE	5754968	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181490	*SAVE	\^{F4}																													
+*QE	5755137-2	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85444200	*SAVE	\^{F4}																													
+*QE	5755660	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85444200	*SAVE	\^{F4}																													
+*QE	5755928	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	5755997	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85371090	*SAVE	\^{F4}																													
+*QE	5756251	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84213990	*SAVE	\^{F4}																													
+*QE	5758309	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181300	*SAVE	\^{F4}																													
+*QE	5759080-4S	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181290	*SAVE	\^{F4}																													
+*QE	5759091-2-S-R	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	5759659	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90229090	*SAVE	\^{F4}																													
+*QE	5761097	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85439090	*SAVE	\^{F4}																													
+*QE	5761534	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90229090	*SAVE	\^{F4}																													
+*QE	5762069	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85369090	*SAVE	\^{F4}																													
+*QE	5768176	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85044030	*SAVE	\^{F4}																													
+*QE	5769403	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84798999	*SAVE	\^{F4}																													
+*QE	5771609-S	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	5771693-S	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	5773550-2	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90229090	*SAVE	\^{F4}																													
+*QE	5773566	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85365090	*SAVE	\^{F4}																													
+*QE	5775401-1	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85444200	*SAVE	\^{F4}																													
+*QE	5776174	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85361000	*SAVE	\^{F4}																													
+*QE	5776227	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85234920	*SAVE	\^{F4}																													
+*QE	5776823-7	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85234920	*SAVE	\^{F4}																													
+*QE	5777072	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85044040	*SAVE	\^{F4}																													
+*QE	5777442-3	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85234990	*SAVE	\^{F4}																													
+*QE	5778035-S	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	5778788	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85234920	*SAVE	\^{F4}																													
+*QE	5780757	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85234920	*SAVE	\^{F4}																													
+*QE	5781535	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85013110	*SAVE	\^{F4}																													
+*QE	5786360-7S	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85235190	*SAVE	\^{F4}																													
+*QE	5788442	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	39235000	*SAVE	\^{F4}																													
+*QE	5792417-3S	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85235110	*SAVE	\^{F4}																													
+*QE	5792738	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85234920	*SAVE	\^{F4}																													
+*QE	5793549-6	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85234920	*SAVE	\^{F4}																													
+*QE	5794314	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85439090	*SAVE	\^{F4}																													
+*QE	5794315	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85439090	*SAVE	\^{F4}																													
+*QE	5794538-S	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181210	*SAVE	\^{F4}																													
+*QE	5794629	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85234990	*SAVE	\^{F4}																													
+*QE	5794784-S	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85044030	*SAVE	\^{F4}																													
+*QE	5796592	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90229090	*SAVE	\^{F4}																													
+*QE	5796985	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85044022	*SAVE	\^{F4}																													
+*QE	5799566	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85234990	*SAVE	\^{F4}																													
+*QE	5805793	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85234920	*SAVE	\^{F4}																													
+*QE	5911000-R	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	5926854	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85234920	*SAVE	\^{F4}																													
+*QE	5931000-2-R	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84715010	*SAVE	\^{F4}																													
+*QE	5957000-10	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	6002001-R	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85044030	*SAVE	\^{F4}																													
+*QE	6020703	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85371090	*SAVE	\^{F4}																													
+*QE	6160041-2-R	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84715010	*SAVE	\^{F4}																													
+*QE	6406402-R	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90229090	*SAVE	\^{F4}																													
+*QE	6450000-100-R	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84717012	*SAVE	\^{F4}																													
+*QE	6450000-40-R	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84715010	*SAVE	\^{F4}																													
+*QE	6600-0278-850	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90189091	*SAVE	\^{F4}																													
+*QE	6750190	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85371090	*SAVE	\^{F4}																													
+*QE	7201592	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90318099	*SAVE	\^{F4}																													
+*QE	7710001	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	7720007	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85371090	*SAVE	\^{F4}																													
+*QE	888418	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	ASM500085	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85371090	*SAVE	\^{F4}																													
+*QE	CO9508080032	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85414027	*SAVE	\^{F4}																													
+*QE	D3185T	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90223000	*SAVE	\^{F4}																													
+*QE	E45951DX	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85044040	*SAVE	\^{F4}																													
+*QE	FC200403-R	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85044090	*SAVE	\^{F4}																													
+*QE	FC200680	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	GA200760	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85371090	*SAVE	\^{F4}																													
+*QE	GB200002-03-R	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	GB200156-06	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85235190	*SAVE	\^{F4}																													
+*QE	GB200156-11	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85235190	*SAVE	\^{F4}																													
+*QE	GE-3MIX-R	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181210	*SAVE	\^{F4}																													
+*QE	HB101022160	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84824000	*SAVE	\^{F4}																													
+*QE	KTZ196358	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	KTZ280035-R	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	KTZ280247	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85299011	*SAVE	\^{F4}																													
+*QE	KTZ302178-R	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84715090	*SAVE	\^{F4}																													
+*QE	KTZ303830-R	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84715090	*SAVE	\^{F4}																													
+*QE	KTZ304121	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85234920	*SAVE	\^{F4}																													
+*QE	KTZ304123	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85234990	*SAVE	\^{F4}																													
+*QE	LNR5801	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85371090	*SAVE	\^{F4}																													
+*QE	LU40026	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90229090	*SAVE	\^{F4}																													
+*QE	M1125056	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84231000	*SAVE	\^{F4}																													
+*QE	M1168210	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85371090	*SAVE	\^{F4}																													
+*QE	MEC009232	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	NS5399322	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	NS5409449	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85044030	*SAVE	\^{F4}																													
+*QE	OMN00010	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85444200	*SAVE	\^{F4}																													
+*QE	OMN00085	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	OMN00134	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	OMN00163	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	OMN00266	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90251990	*SAVE	\^{F4}																													
+*QE	5812867	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84148039	*SAVE	\^{F4}																													
+*QE	5812939	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	5815167	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90229090	*SAVE	\^{F4}																													
+*QE	5815823-02	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84842000	*SAVE	\^{F4}																													
+*QE	5815988	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85234990	*SAVE	\^{F4}																													
+*QE	5815999	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85234990	*SAVE	\^{F4}																													
+*QE	5819094	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85072010	*SAVE	\^{F4}																													
+*QE	5820689K-S	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181210	*SAVE	\^{F4}																													
+*QE	5824130	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84834010	*SAVE	\^{F4}																													
+*QE	5824436	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85234990	*SAVE	\^{F4}																													
+*QE	5824673	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90229090	*SAVE	\^{F4}																													
+*QE	5825476	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85234990	*SAVE	\^{F4}																													
+*QE	5828058	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85234920	*SAVE	\^{F4}																													
+*QE	5830164	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85234920	*SAVE	\^{F4}																													
+*QE	5831954	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85371090	*SAVE	\^{F4}																													
+*QE	5840554	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85234990	*SAVE	\^{F4}																													
+*QE	5840555	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85234990	*SAVE	\^{F4}																													
+*QE	5841642	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85234920	*SAVE	\^{F4}																													
+*QE	5845394	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90308290	*SAVE	\^{F4}																													
+*QE	5845398	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85235190	*SAVE	\^{F4}																													
+*QE	5845400	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85235190	*SAVE	\^{F4}																													
+*QE	5847774	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181300	*SAVE	\^{F4}																													
+*QE	5863400-2	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181410	*SAVE	\^{F4}																													
+*QE	587040700	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	39173300	*SAVE	\^{F4}																													
+*QE	86901-HEL	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84213990	*SAVE	\^{F4}																													
+*QE	M1020271	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	39199090	*SAVE	\^{F4}																													
+*QE	5871076-2	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	39199090	*SAVE	\^{F4}																													
+*QE	5931000	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	5957602	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90229090	*SAVE	\^{F4}																													
+*QE	5958000-R	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	GC200111-R	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	GC200126-R	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	6003003	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85044029	*SAVE	\^{F4}																													
+*QE	6020715-3	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	6160051-2	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84715010	*SAVE	\^{F4}																													
+*QE	6241101	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85371090	*SAVE	\^{F4}																													
+*QE	6296402-3-R	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90229090	*SAVE	\^{F4}																													
+*QE	6494666-2	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181290	*SAVE	\^{F4}																													
+*QE	6600-0105-300	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84213990	*SAVE	\^{F4}																													
+*QE	6600-0247-854	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90189091	*SAVE	\^{F4}																													
+*QE	6600-0820-700	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90268000	*SAVE	\^{F4}																													
+*QE	6611056-1	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85442000	*SAVE	\^{F4}																													
+*QE	6613300-19	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84717012	*SAVE	\^{F4}																													
+*QE	700609-002	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85444200	*SAVE	\^{F4}																													
+*QE	AG-AS3100-S	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90192020	*SAVE	\^{F4}																													
+*QE	GA200359	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	7324557-10	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84715010	*SAVE	\^{F4}																													
+*QE	M1022178-S	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84213990	*SAVE	\^{F4}																													
+*QE	73318-HEL	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90189099	*SAVE	\^{F4}																													
+*QE	73375-HEL	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90189099	*SAVE	\^{F4}																													
+*QE	8004381	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90189099	*SAVE	\^{F4}																													
+*QE	898283	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85444200	*SAVE	\^{F4}																													
+*QE	733382-HEL-S	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	7350002	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90229090	*SAVE	\^{F4}																													
+*QE	7487305-2	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90229090	*SAVE	\^{F4}																													
+*QE	755534-HEL	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84818099	*SAVE	\^{F4}																													
+*QE	M1018406	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	M1022278	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85444200	*SAVE	\^{F4}																													
+*QE	7710007-2	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84718000	*SAVE	\^{F4}																													
+*QE	7710010-3	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	7773126	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90229090	*SAVE	\^{F4}																													
+*QE	8001000	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85183000	*SAVE	\^{F4}																													
+*QE	8001806-X	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	81246-IMG	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90229090	*SAVE	\^{F4}																													
+*QE	8770000-115	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84717029	*SAVE	\^{F4}																													
+*QE	8770000-131	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84718000	*SAVE	\^{F4}																													
+*QE	8771241	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85285220	*SAVE	\^{F4}																													
+*QE	881319-HEL	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84213990	*SAVE	\^{F4}																													
+*QE	M1007252	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	M1036431	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	39199090	*SAVE	\^{F4}																													
+*QE	886136-HEL-S	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84213990	*SAVE	\^{F4}																													
+*QE	895686-S	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	9888961	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85235110	*SAVE	\^{F4}																													
+*QE	BC100530-12	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85235190	*SAVE	\^{F4}																													
+*QE	CO38A1B06002	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84799090	*SAVE	\^{F4}																													
+*QE	CO38A1B06004	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84799090	*SAVE	\^{F4}																													
+*QE	CO9502020070	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85365090	*SAVE	\^{F4}																													
+*QE	D3193T	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90223000	*SAVE	\^{F4}																													
+*QE	LU42030	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90318099	*SAVE	\^{F4}																													
+*QE	E4504FP	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85044040	*SAVE	\^{F4}																													
+*QE	E63101DN	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90229090	*SAVE	\^{F4}																													
+*QE	E63101MG	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90229090	*SAVE	\^{F4}																													
+*QE	E63101MJ	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90229090	*SAVE	\^{F4}																													
+*QE	E6412DA	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90229090	*SAVE	\^{F4}																													
+*QE	E6424GJ	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	58061000	*SAVE	\^{F4}																													
+*QE	FC200018	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85235190	*SAVE	\^{F4}																													
+*QE	FC200680-R	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	KTZ154730-R	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	FMI36120-001	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85234920	*SAVE	\^{F4}																													
+*QE	FMI36127A	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85235110	*SAVE	\^{F4}																													
+*QE	GA200107-H	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	GB200020-H	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	GA200685-H	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	GA200726-H	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	GA200730-5	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85044029	*SAVE	\^{F4}																													
+*QE	GB200010-2-H	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	GB200156-14	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85235190	*SAVE	\^{F4}																													
+*QE	GC100373-06	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85234920	*SAVE	\^{F4}																													
+*QE	GC200157S	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85044030	*SAVE	\^{F4}																													
+*QE	GC200195	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85340051	*SAVE	\^{F4}																													
+*QE	KN100105-R	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181210	*SAVE	\^{F4}																													
+*QE	M1187892-S2	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90189099	*SAVE	\^{F4}																													
+*QE	KTZ157038	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181210	*SAVE	\^{F4}																													
+*QE	KTZ157043	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181210	*SAVE	\^{F4}																													
+*QE	KTZ157074-R	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181210	*SAVE	\^{F4}																													
+*QE	KTZ157095	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181210	*SAVE	\^{F4}																													
+*QE	KTZ195363	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181210	*SAVE	\^{F4}																													
+*QE	KTZ212115-R	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85284220	*SAVE	\^{F4}																													
+*QE	KTZ302752-R	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85044021	*SAVE	\^{F4}																													
+*QE	KTZ220875	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85437099	*SAVE	\^{F4}																													
+*QE	KTZ280117-R	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181210	*SAVE	\^{F4}																													
+*QE	KTZ303993-R	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181210	*SAVE	\^{F4}																													
+*QE	KTZ303892	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85044021	*SAVE	\^{F4}																													
+*QE	KTZ303944	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	KTZ303944-R	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	KTZ304040	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84718000	*SAVE	\^{F4}																													
+*QE	KTZ304073	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	KTZ304082	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	KTZ304079	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85234990	*SAVE	\^{F4}																													
+*QE	KTZ304093	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85489090	*SAVE	\^{F4}																													
+*QE	KTZ304107-R	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84715010	*SAVE	\^{F4}																													
+*QE	KTZ304128-R	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181210	*SAVE	\^{F4}																													
+*QE	KTZ304138	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85234990	*SAVE	\^{F4}																													
+*QE	LU45289	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90318099	*SAVE	\^{F4}																													
+*QE	LU45355	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90318099	*SAVE	\^{F4}																													
+*QE	LU45649ST	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90223000	*SAVE	\^{F4}																													
+*QE	LU45733	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85234990	*SAVE	\^{F4}																													
+*QE	LU45884	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85234990	*SAVE	\^{F4}																													
+*QE	LU6854	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90229090	*SAVE	\^{F4}																													
+*QE	LU8212	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85444200	*SAVE	\^{F4}																													
+*QE	M1116607	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	M1161957	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90192030	*SAVE	\^{F4}																													
+*QE	M1179066-S	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90189099	*SAVE	\^{F4}																													
+*QE	M1179105-S	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	M1226308-S	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	M1192911-S	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85389090	*SAVE	\^{F4}																													
+*QE	M1210047-S	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90319090	*SAVE	\^{F4}																													
+*QE	M1230870	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90192010	*SAVE	\^{F4}																													
+*QE	M1800003-S	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85444200	*SAVE	\^{F4}																													
+*QE	M1800004-S	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85444200	*SAVE	\^{F4}																													
+*QE	M1800023-S	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85444200	*SAVE	\^{F4}																													
+*QE	M1800038-S	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85444200	*SAVE	\^{F4}																													
+*QE	M1802070-004	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85235110	*SAVE	\^{F4}																													
+*QE	M1803995-S	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90189099	*SAVE	\^{F4}																													
+*QE	M2008916	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90189099	*SAVE	\^{F4}																													
+*QE	M9200000	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85235190	*SAVE	\^{F4}																													
+*QE	M9200001	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90318099	*SAVE	\^{F4}																													
+*QE	OMN00027	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	OMN00035	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85444200	*SAVE	\^{F4}																													
+*QE	OMN00073	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	39199090	*SAVE	\^{F4}																													
+*QE	OMN00074	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	OMN00077	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85444200	*SAVE	\^{F4}																													
+*QE	OMN00039	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85444200	*SAVE	\^{F4}																													
+*QE	OMN00092	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	39199090	*SAVE	\^{F4}																													
+*QE	OMN00095	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	39199090	*SAVE	\^{F4}																													
+*QE	OMN00101	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90138010	*SAVE	\^{F4}																													
+*QE	OMN00121	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85444200	*SAVE	\^{F4}																													
+*QE	OMN00207	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	OMN00210	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	OMN00216	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	39199090	*SAVE	\^{F4}																													
+*QE	OMN00225	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	73202010	*SAVE	\^{F4}																													
+*QE	OMN00256	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	OMN00282	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	39199090	*SAVE	\^{F4}																													
+*QE	OMN00333	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	OMN00336	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	OMN00378	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85073011	*SAVE	\^{F4}																													
+*QE	OMN00380	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	OMN00398	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	39199090	*SAVE	\^{F4}																													
+*QE	OMN00399	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	39199090	*SAVE	\^{F4}																													
+*QE	OMN00442	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	OMN00479	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85444200	*SAVE	\^{F4}																													
+*QE	OMN00491	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	OMN00494	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	OMN00512	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85444200	*SAVE	\^{F4}																													
+*QE	OMN00546	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	39199090	*SAVE	\^{F4}																													
+*QE	OMN00585	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	39269090	*SAVE	\^{F4}																													
+*QE	R-FMI36134-001	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85044090	*SAVE	\^{F4}																													
+*QE	S2418295-R	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	S2421612	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	S2423369-R	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	S2424595-R	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	S5393439-2	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84716053	*SAVE	\^{F4}																													
+*QE	S5789305	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	SF-00016	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84145990	*SAVE	\^{F4}																													
+*QE	TS-AF-10	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	TS-W-D	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	OMN00271	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	39199090	*SAVE	\^{F4}																													
+*QE	OMN00301	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85444200	*SAVE	\^{F4}																													
+*QE	OMN00323	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	OMN00334	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85444200	*SAVE	\^{F4}																													
+*QE	OMN00368	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85044040	*SAVE	\^{F4}																													
+*QE	OMN00373	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84433240	*SAVE	\^{F4}																													
+*QE	OMN00376	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85235190	*SAVE	\^{F4}																													
+*QE	OMN00395	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	39199090	*SAVE	\^{F4}																													
+*QE	OMN00411	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	39199090	*SAVE	\^{F4}																													
+*QE	OMN00431	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	OMN00438	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	39199090	*SAVE	\^{F4}																													
+*QE	OMN00441	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	OMN00480	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85444200	*SAVE	\^{F4}																													
+*QE	OMN00496	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	39199090	*SAVE	\^{F4}																													
+*QE	OMN00498	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	39199090	*SAVE	\^{F4}																													
+*QE	OMN00501	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	39191090	*SAVE	\^{F4}																													
+*QE	OMN00517	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85371090	*SAVE	\^{F4}																													
+*QE	OMN00522	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	OMN00523	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	OMN00531	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90183923	*SAVE	\^{F4}																													
+*QE	SF-00037	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84145910	*SAVE	\^{F4}																													
+*QE	OMN00536	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	39199090	*SAVE	\^{F4}																													
+*QE	OMN00559	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90182090	*SAVE	\^{F4}																													
+*QE	OMN00560	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	OMN00570	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	39199090	*SAVE	\^{F4}																													
+*QE	OMN00584	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	R-FMI36107-001	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85234990	*SAVE	\^{F4}																													
+*QE	S2418523	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	S5245004	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85044029	*SAVE	\^{F4}																													
+*QE	S5393439-4	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	S5399322-R	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	S5416818	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84717012	*SAVE	\^{F4}																													
+*QE	S5418278	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	84149020	*SAVE	\^{F4}																													
+*QE	S5766993	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90181990	*SAVE	\^{F4}																													
+*QE	S5781419-2-R	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85371090	*SAVE	\^{F4}																													
+*QE	U0018BF	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	82055900	*SAVE	\^{F4}																													
+*QE	00-452829-01	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85258019	*SAVE	\^{F4}																													
+*QE	00-453825-04	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90229019	*SAVE	\^{F4}																													
+*QE	00-885687-01-R	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	90303390	*SAVE	\^{F4}																													
+*QE	1503-3045-000	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85072010	*SAVE	\^{F4}																													
+*QE	00-906731-01	*QR	*AT	ENT	*LR	*NR	FISCAL_CLASSIFICATION	TAB	85044021	*SAVE	\^{F4}																													
+enddata
+beginoptions
+AutoTab=false
+HourGlass=true
+AutoInsert=true
+ProgressBar=true
+TitleSize=false
+DataColour=65408
+CommandColour=16777215
+KeystrokeColour=16777215
+DataSource=0
+ImportLoad=0
+EnableMacro=1
+DatePicker=1
+LegacyKeyMode=0
+IEOnly=0
+StopIfNotIE=0
+LoadControl=0
+UseBC=0
+SkipBlank=1
+Protection=￶�￶�￮￥￮￥￦￭￦￭￮￥￮￥￶�￶�ￎￅￎￅￆￍￆￍￎￅￎￅ￶�￶�￮￥￮￥￦￭￦￭￮￥￮￥￶�￶�%CR%%CR%v}v}nenefmfmnenev}v}NE
+endoptions
+beginformat
+FontName=Default
+FontSize=8
+ColumnWidth8=101
+ColumnWidth19=87
+ColumnWidth21=235
+RowHeight1=22
+endformat
+begincommands
+Command	EBS - R12	EBS - 11i	EBS - 10.7/11.0 NCA	EBS - 10.7SC	Siebel	SAP	Peoplesoft	JDE	Dynamics	Other	Description
+TAB	\{TAB}	\{TAB}	\{TAB}	\{TAB}	\{TAB}	\{TAB}	\{TAB}	\{TAB}	\{TAB}	\{TAB}	TAB key
+ENT	\{ENTER}	\{ENTER}	\{ENTER}	\{ENTER}	\{ENTER}	\{ENTER}	\{ENTER}	\{ENTER}	\{ENTER}	\{ENTER}	Enter key
+*UP	\{UP}	\{UP}	\{UP}	\{UP}	\{UP}	\{UP}	\{UP}	\{UP}	\{UP}	\{UP}	Up arrow key
+*DN	\{DOWN}	\{DOWN}	\{DOWN}	\{DOWN}	\{DOWN}	\{DOWN}	\{DOWN}	\{DOWN}	\{DOWN}	\{DOWN}	Down arrow key
+*LT	\{LEFT}	\{LEFT}	\{LEFT}	\{LEFT}	\{LEFT}	\{LEFT}	\{LEFT}	\{LEFT}	\{LEFT}	\{LEFT}	Left arrow key
+*RT	\{RIGHT}	\{RIGHT}	\{RIGHT}	\{RIGHT}	\{RIGHT}	\{RIGHT}	\{RIGHT}	\{RIGHT}	\{RIGHT}	\{RIGHT}	Right arrow key
+*SP	\%F%V	\%F%V	\%A%{DOWN 4}{ENTER}	\%A%A							Save & proceed
+*SAVE	\^S	\^S	\^S	\{F10}							Save
+*NB	\+{PGDN}	\+{PGDN}	\+{PGDN}	\^{PGDN}							Next Block
+*PB	\+{PGUP}	\+{PGUP}	\+{PGUP}	\^{PGUP}							Previous Block
+*NF	\{TAB}	\{TAB}	\%G%{DOWN}{ENTER}	\{TAB}							Next Field
+*PF	\+{TAB}	\+{TAB}	\%G%{DOWN 2}{ENTER}	\+{TAB}							Previous Field
+*NR	\{DOWN}	\{DOWN}	\%G%{DOWN 3}{ENTER}	\+{DOWN}							Next record
+*PR	\{UP}	\{UP}	\%G%{DOWN 4}{ENTER}	\+{UP}							Previous record
+*FR	\%V%DF	\%V%DF	\%G%{DOWN 5}{ENTER}	\%G%F							First record
+*LR	\%V%DL	\%V%DL	\%G%{DOWN 6}{ENTER}	\%G%L							Last record
+*ER	\{F6}	\{F6}	\{F6}	\+{F4}							Erase record
+*DR	\^{UP}	\^{UP}	\^{UP}	\+{F6}							Delete record
+*SB	\ 	\ 	\ 	\ 	\ 	\ 	\ 	\ 	\ 	\ 	Space bar
+*ST	\{HOME}+{END}	\{HOME}+{END}	\{HOME}+{END}	\{HOME}+{END}	\{HOME}+{END}	\{HOME}+{END}	\{HOME}+{END}	\{HOME}+{END}	\{HOME}+{END}	\{HOME}+{END}	Select field text
+*BM	\^B	\^B	\^B	\{F5}							Block menu
+*QE	\{F11}	\{F11}	\{F11}	\{F7}							Query enter
+*QR	\^{F11}	\^{F11}	\^{F11}	\{F8}							Query run
+*FI	\%V%F	\%V%F	\%Q%{DOWN}{ENTER}								Find
+*FA	\%V%I	\%V%I	\%Q%{DOWN 2}{ENTER}								Find all
+*IR	\^{DOWN}	\^{DOWN}	\^{DOWN}	\{F6}							Insert record
+*CL	\{F5}	\{F5}	\{F5}	\^U							Clear field
+*FE	\^E	\^E	\^E	\^E							Field edit
+*AA	\%A	\%A	\%A	\%A	\%A	\%A	\%A	\%A	\%A	\%A	Alt A
+*AB	\%B	\%B	\%B	\%B	\%B	\%B	\%B	\%B	\%B	\%B	Alt B
+*AC	\%C	\%C	\%C	\%C	\%C	\%C	\%C	\%C	\%C	\%C	Alt C
+*AD	\%D	\%D	\%D	\%D	\%D	\%D	\%D	\%D	\%D	\%D	Alt D
+*AE	\%E	\%E	\%E	\%E	\%E	\%E	\%E	\%E	\%E	\%E	Alt E
+*AF	\%F	\%F	\%F	\%F	\%F	\%F	\%F	\%F	\%F	\%F	Alt F
+*AG	\%G	\%G	\%G	\%G	\%G	\%G	\%G	\%G	\%G	\%G	Alt G
+*AH	\%H	\%H	\%H	\%H	\%H	\%H	\%H	\%H	\%H	\%H	Alt H
+*AI	\%I	\%I	\%I	\%I	\%I	\%I	\%I	\%I	\%I	\%I	Alt I
+*AJ	\%J	\%J	\%J	\%J	\%J	\%J	\%J	\%J	\%J	\%J	Alt J
+*AK	\%K	\%K	\%K	\%K	\%K	\%K	\%K	\%K	\%K	\%K	Alt K
+*AL	\%L	\%L	\%L	\%L	\%L	\%L	\%L	\%L	\%L	\%L	Alt L
+*AM	\%M	\%M	\%M	\%M	\%M	\%M	\%M	\%M	\%M	\%M	Alt M
+*AN	\%N	\%N	\%N	\%N	\%N	\%N	\%N	\%N	\%N	\%N	Alt N
+*AO	\%O	\%O	\%O	\%O	\%O	\%O	\%O	\%O	\%O	\%O	Alt O
+*AP	\%P	\%P	\%P	\%P	\%P	\%P	\%P	\%P	\%P	\%P	Alt P
+*AQ	\%Q	\%Q	\%Q	\%Q	\%Q	\%Q	\%Q	\%Q	\%Q	\%Q	Alt Q
+*AR	\%R	\%R	\%R	\%R	\%R	\%R	\%R	\%R	\%R	\%R	Alt R
+*AS	\%S	\%S	\%S	\%S	\%S	\%S	\%S	\%S	\%S	\%S	Alt S
+*AT	\%T	\%T	\%T	\%T	\%T	\%T	\%T	\%T	\%T	\%T	Alt T
+*AU	\%U	\%U	\%U	\%U	\%U	\%U	\%U	\%U	\%U	\%U	Alt U
+*AV	\%V	\%V	\%V	\%V	\%V	\%V	\%V	\%V	\%V	\%V	Alt V
+*AW	\%W	\%W	\%W	\%W	\%W	\%W	\%W	\%W	\%W	\%W	Alt W
+*AX	\%X	\%X	\%X	\%X	\%X	\%X	\%X	\%X	\%X	\%X	Alt X
+*AY	\%Y	\%Y	\%Y	\%Y	\%Y	\%Y	\%Y	\%Y	\%Y	\%Y	Alt Y
+*AZ	\%Z	\%Z	\%Z	\%Z	\%Z	\%Z	\%Z	\%Z	\%Z	\%Z	Alt Z
+endcommands
+beginhdrgrid
+																																																																																																			
+
+0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+begindata
+enddata
+endhdrgrid
+beginftrgrid
+																																																																																																		
+
+000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+begindata
+enddata
+endftrgrid

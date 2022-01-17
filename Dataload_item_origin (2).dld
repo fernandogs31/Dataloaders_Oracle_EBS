@@ -1,0 +1,374 @@
+﻿begindelays
+DataDelay=0
+CellDelay=0.2
+FormDelay=0.25
+KeyHold=50
+SystemHold=50
+HourGlass=250
+TAB=0
+ENT=0
+*UP=0
+*DN=0
+*LT=0
+*RT=0
+*SP=0
+*SAVE=0
+*NB=0
+*PB=0
+*NF=0
+*PF=0
+*NR=0
+*PR=0
+*FR=0
+*LR=0
+*ER=0
+*DR=0
+*SB=0
+*ST=0
+*BM=0
+*QE=0
+*QR=0
+*FI=0
+*FA=0
+*IR=0
+*CL=0
+*FE=0
+*AA=0
+*AB=0
+*AC=0
+*AD=0
+*AE=0
+*AF=0
+*AG=0
+*AH=0
+*AI=0
+*AJ=0
+*AK=0
+*AL=0
+*AM=0
+*AN=0
+*AO=0
+*AP=0
+*AQ=0
+*AR=0
+*AS=0
+*AT=0
+*AU=0
+*AV=0
+*AW=0
+*AX=0
+*AY=0
+*AZ=0
+enddelays
+beginheader
+*QE	PN	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	NCM	ENT	*SAVE	ENT	Data	Data	Data	Data	Data	Não mudar	Data	Descrição em português	Data	Data	Data	Data	Data	Data	Data	Data	Data	Data	Data	Data	Data	Data	Data	Data	Data	Data	Data	Data																																																																																																				
+
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+endheader
+beginother
+Window=Oracle Applications - GLTEST Cloned From GLPROD on 31-Aug-20
+Description=
+CommandGroup=EBS - R12
+PasteCtrlV=1
+endother
+begindata
+*QE	M50002DG	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	E3053CG	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	0210-0544-300	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	P5053JL	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	E45151NC	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	H48442AH	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	H48432AT	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	B75542DY	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	E8007DE	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	H48812AT	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	H48812AD	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	002202E	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	002203E	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	0140-6719-103	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	0144-3536-112	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	0210-5297-100	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	0211-1454-100	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	0219-7210-300	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	0220-5017-300	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	0231-1121-810	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	0231-1121-811	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	0231-1121-813	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1001-3060-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1006-0209-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1006-8357-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1009-3079-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1009-3084-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1009-3098-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1009-3360-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1009-3370-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1009-5506-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1009-5682-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1009-5933-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1011-3004-000-S	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1011-3572-000-S	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1011-3832-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1011-8000-000-S	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1011-8006-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1011-8363-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1100-3025-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1100-3026-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1100-3028-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1100-9029-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1100-9030-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1104-3025-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1175-9102-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1202-3804-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1406-3397-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1407-3000-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1407-3101-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1407-3200-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1407-3201-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1407-3804-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1407-3807-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1407-7004-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1407-7013-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1407-7026-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1407-7027-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1442AAO	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1500-3117-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1500-3352-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1503-3056-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1503-3106-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1503-3244-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1503-3245-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1503-3484-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1503-3854-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1503-3858-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1504-3015-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1504-8505-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1505-3009-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1505-3025-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1505-3027-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1505-3029-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1505-3039-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1505-3208-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1505-3209-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1505-3222-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1505-3225-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1505-3231-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1505-3244-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1505-3272-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1505-3801-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1505-3846-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1505-3848-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1505-3855-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1505-3856-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1505-5500-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1505-5500-000-S	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1505-5502-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1505-5506-000-S	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1505-5603-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1505-5604-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1505-8503-000-S	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	1505-8568-000	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	2042685-010	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	2042685-017	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	2042901-011	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	6600-0214-850	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	6600-0270-200	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	6600-0714-200	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	6600-0784-700	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	6600-0875-700	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	OXY-C3	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	OXY-F4-N	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	OXY-FMR-00	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	OXY-SE-3	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	OXY-SL3	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	OXY-WMR-00	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	S1002JC	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	S1800KE	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	T451M=A	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	TS-AF-10	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	TS-AF-25	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	TS-AP-10	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	TS-E4-H	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	TS-E4-N	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	TS-E-D	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	TS-F1-H	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	TS-F2-GE	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	TS-F4-GE	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	TS-F4-MC	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	TS-F4-N	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	TS-F-D	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	TS-G3	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	TS-H3	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	TS-M3	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	TS-N3	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	TS-SA4-GE	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	2053489-035	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	2053489-037	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	2053489-043	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	2053489-045	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	2053489-046	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	2056813-010	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	2059144-005	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	2059145-010	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	2061869-002	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	2061869-004	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	2061869-088	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	2063483-001	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	2065637-001	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	2066713-001	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	2066749-001	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	2066750-001	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	2066858-001	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	2066867-010	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	2067553-001	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	6600-1201-500	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	6600-1254-600	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	6600-1513-700	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	700609-002	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	73318-HEL	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	73319-HEL	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	73385-HEL	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	73386-HEL	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	733910-HEL	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	74205-HEL	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	755534-HEL	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	755581-HEL	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	755583-HEL	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	8001959-HEL	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	801222-002	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	801502-001	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	801674-001	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	8024AAO	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	TS-SA-D	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	TS-SE-3	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	TS-SP-D	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	TS-W-D	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	UGP001353	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	UGP500115	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	UGP500233	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	G3335CW	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	E45351DD	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	E45451DE	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	E8801TG	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	E8802CB	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	E8802RA	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	E8802RN	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	E8823AC	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	E8823AD	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	G3335FC	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	H42802LA	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	H46352LY	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	H48312AM	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	H48602LC	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	H48691LP	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	H48701WC	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	H48912AH	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	H48912AS	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	H48912AZ	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	2067713-011	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	2068710-S	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	2069358-001-S	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	2071018-001-S	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	2071165-001-S	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	2073090-001	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	2073090-002	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT																												
+*QE	2073871-001	*QR	TAB	*AO	TAB	TAB	TAB	TAB	TAB	TAB	C	ENT	*SAVE	ENT	*SAVE																											
+enddata
+beginoptions
+AutoTab=false
+HourGlass=true
+AutoInsert=true
+ProgressBar=true
+TitleSize=false
+DataColour=65408
+CommandColour=16777215
+KeystrokeColour=16777215
+DataSource=0
+ImportLoad=0
+EnableMacro=1
+DatePicker=1
+LegacyKeyMode=0
+IEOnly=0
+StopIfNotIE=0
+LoadControl=0
+UseBC=0
+SkipBlank=1
+Protection=￶�￶�￮￥￮￥￦￭￦￭￮￥￮￥￶�￶�ￎￅￎￅￆￍￆￍￎￅￎￅ￶�￶�￮￥￮￥￦￭￦￭￮￥￮￥￶�￶�%CR%%CR%v}v}nenefmfmnenev}v}NE
+endoptions
+beginformat
+FontName=Default
+FontSize=8
+ColumnWidth21=87
+ColumnWidth23=235
+RowHeight1=22
+endformat
+begincommands
+Command	EBS - R12	EBS - 11i	EBS - 10.7/11.0 NCA	EBS - 10.7SC	Siebel	SAP	Peoplesoft	JDE	Dynamics	Other	Description
+TAB	\{TAB}	\{TAB}	\{TAB}	\{TAB}	\{TAB}	\{TAB}	\{TAB}	\{TAB}	\{TAB}	\{TAB}	TAB key
+ENT	\{ENTER}	\{ENTER}	\{ENTER}	\{ENTER}	\{ENTER}	\{ENTER}	\{ENTER}	\{ENTER}	\{ENTER}	\{ENTER}	Enter key
+*UP	\{UP}	\{UP}	\{UP}	\{UP}	\{UP}	\{UP}	\{UP}	\{UP}	\{UP}	\{UP}	Up arrow key
+*DN	\{DOWN}	\{DOWN}	\{DOWN}	\{DOWN}	\{DOWN}	\{DOWN}	\{DOWN}	\{DOWN}	\{DOWN}	\{DOWN}	Down arrow key
+*LT	\{LEFT}	\{LEFT}	\{LEFT}	\{LEFT}	\{LEFT}	\{LEFT}	\{LEFT}	\{LEFT}	\{LEFT}	\{LEFT}	Left arrow key
+*RT	\{RIGHT}	\{RIGHT}	\{RIGHT}	\{RIGHT}	\{RIGHT}	\{RIGHT}	\{RIGHT}	\{RIGHT}	\{RIGHT}	\{RIGHT}	Right arrow key
+*SP	\%F%V	\%F%V	\%A%{DOWN 4}{ENTER}	\%A%A							Save & proceed
+*SAVE	\^S	\^S	\^S	\{F10}							Save
+*NB	\+{PGDN}	\+{PGDN}	\+{PGDN}	\^{PGDN}							Next Block
+*PB	\+{PGUP}	\+{PGUP}	\+{PGUP}	\^{PGUP}							Previous Block
+*NF	\{TAB}	\{TAB}	\%G%{DOWN}{ENTER}	\{TAB}							Next Field
+*PF	\+{TAB}	\+{TAB}	\%G%{DOWN 2}{ENTER}	\+{TAB}							Previous Field
+*NR	\{DOWN}	\{DOWN}	\%G%{DOWN 3}{ENTER}	\+{DOWN}							Next record
+*PR	\{UP}	\{UP}	\%G%{DOWN 4}{ENTER}	\+{UP}							Previous record
+*FR	\%V%DF	\%V%DF	\%G%{DOWN 5}{ENTER}	\%G%F							First record
+*LR	\%V%DL	\%V%DL	\%G%{DOWN 6}{ENTER}	\%G%L							Last record
+*ER	\{F6}	\{F6}	\{F6}	\+{F4}							Erase record
+*DR	\^{UP}	\^{UP}	\^{UP}	\+{F6}							Delete record
+*SB	\ 	\ 	\ 	\ 	\ 	\ 	\ 	\ 	\ 	\ 	Space bar
+*ST	\{HOME}+{END}	\{HOME}+{END}	\{HOME}+{END}	\{HOME}+{END}	\{HOME}+{END}	\{HOME}+{END}	\{HOME}+{END}	\{HOME}+{END}	\{HOME}+{END}	\{HOME}+{END}	Select field text
+*BM	\^B	\^B	\^B	\{F5}							Block menu
+*QE	\{F11}	\{F11}	\{F11}	\{F7}							Query enter
+*QR	\^{F11}	\^{F11}	\^{F11}	\{F8}							Query run
+*FI	\%V%F	\%V%F	\%Q%{DOWN}{ENTER}								Find
+*FA	\%V%I	\%V%I	\%Q%{DOWN 2}{ENTER}								Find all
+*IR	\^{DOWN}	\^{DOWN}	\^{DOWN}	\{F6}							Insert record
+*CL	\{F5}	\{F5}	\{F5}	\^U							Clear field
+*FE	\^E	\^E	\^E	\^E							Field edit
+*AA	\%A	\%A	\%A	\%A	\%A	\%A	\%A	\%A	\%A	\%A	Alt A
+*AB	\%B	\%B	\%B	\%B	\%B	\%B	\%B	\%B	\%B	\%B	Alt B
+*AC	\%C	\%C	\%C	\%C	\%C	\%C	\%C	\%C	\%C	\%C	Alt C
+*AD	\%D	\%D	\%D	\%D	\%D	\%D	\%D	\%D	\%D	\%D	Alt D
+*AE	\%E	\%E	\%E	\%E	\%E	\%E	\%E	\%E	\%E	\%E	Alt E
+*AF	\%F	\%F	\%F	\%F	\%F	\%F	\%F	\%F	\%F	\%F	Alt F
+*AG	\%G	\%G	\%G	\%G	\%G	\%G	\%G	\%G	\%G	\%G	Alt G
+*AH	\%H	\%H	\%H	\%H	\%H	\%H	\%H	\%H	\%H	\%H	Alt H
+*AI	\%I	\%I	\%I	\%I	\%I	\%I	\%I	\%I	\%I	\%I	Alt I
+*AJ	\%J	\%J	\%J	\%J	\%J	\%J	\%J	\%J	\%J	\%J	Alt J
+*AK	\%K	\%K	\%K	\%K	\%K	\%K	\%K	\%K	\%K	\%K	Alt K
+*AL	\%L	\%L	\%L	\%L	\%L	\%L	\%L	\%L	\%L	\%L	Alt L
+*AM	\%M	\%M	\%M	\%M	\%M	\%M	\%M	\%M	\%M	\%M	Alt M
+*AN	\%N	\%N	\%N	\%N	\%N	\%N	\%N	\%N	\%N	\%N	Alt N
+*AO	\%O	\%O	\%O	\%O	\%O	\%O	\%O	\%O	\%O	\%O	Alt O
+*AP	\%P	\%P	\%P	\%P	\%P	\%P	\%P	\%P	\%P	\%P	Alt P
+*AQ	\%Q	\%Q	\%Q	\%Q	\%Q	\%Q	\%Q	\%Q	\%Q	\%Q	Alt Q
+*AR	\%R	\%R	\%R	\%R	\%R	\%R	\%R	\%R	\%R	\%R	Alt R
+*AS	\%S	\%S	\%S	\%S	\%S	\%S	\%S	\%S	\%S	\%S	Alt S
+*AT	\%T	\%T	\%T	\%T	\%T	\%T	\%T	\%T	\%T	\%T	Alt T
+*AU	\%U	\%U	\%U	\%U	\%U	\%U	\%U	\%U	\%U	\%U	Alt U
+*AV	\%V	\%V	\%V	\%V	\%V	\%V	\%V	\%V	\%V	\%V	Alt V
+*AW	\%W	\%W	\%W	\%W	\%W	\%W	\%W	\%W	\%W	\%W	Alt W
+*AX	\%X	\%X	\%X	\%X	\%X	\%X	\%X	\%X	\%X	\%X	Alt X
+*AY	\%Y	\%Y	\%Y	\%Y	\%Y	\%Y	\%Y	\%Y	\%Y	\%Y	Alt Y
+*AZ	\%Z	\%Z	\%Z	\%Z	\%Z	\%Z	\%Z	\%Z	\%Z	\%Z	Alt Z
+endcommands
+beginhdrgrid
+																																																																																																			
+
+0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+begindata
+enddata
+endhdrgrid
+beginftrgrid
+																																																																																																		
+
+000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+begindata
+enddata
+endftrgrid
