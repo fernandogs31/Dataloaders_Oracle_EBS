@@ -1,0 +1,751 @@
+﻿begindelays
+DataDelay=0
+CellDelay=0.2
+FormDelay=0.25
+KeyHold=50
+SystemHold=50
+HourGlass=250
+TAB=0
+ENT=0
+*UP=0
+*DN=0
+*LT=0
+*RT=0
+*SP=0
+*SAVE=0
+*NB=0
+*PB=0
+*NF=0
+*PF=0
+*NR=0
+*PR=0
+*FR=0
+*LR=0
+*ER=0
+*DR=0
+*SB=0
+*ST=0
+*BM=0
+*QE=0
+*QR=0
+*FI=0
+*FA=0
+*IR=0
+*CL=0
+*FE=0
+*AA=0
+*AB=0
+*AC=0
+*AD=0
+*AE=0
+*AF=0
+*AG=0
+*AH=0
+*AI=0
+*AJ=0
+*AK=0
+*AL=0
+*AM=0
+*AN=0
+*AO=0
+*AP=0
+*AQ=0
+*AR=0
+*AS=0
+*AT=0
+*AU=0
+*AV=0
+*AW=0
+*AX=0
+*AY=0
+*AZ=0
+enddelays
+beginheader
+Data	*SAVE	*DN																																																																																																				
+
+0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+endheader
+beginother
+Window=Oracle Applications - GLTEST Cloned From GLPROD on 13-Mar-22
+Description=
+CommandGroup=EBS - R12
+PasteCtrlV=1
+endother
+begindata
+03091000	*SAVE	*DN
+03061990	*SAVE	*DN
+03099000	*SAVE	*DN
+03063990	*SAVE	*DN
+03069990	*SAVE	*DN
+03072100	*SAVE	*DN
+03072200	*SAVE	*DN
+03072900	*SAVE	*DN
+03079100	*SAVE	*DN
+03079200	*SAVE	*DN
+03079900	*SAVE	*DN
+03089000	*SAVE	*DN
+04032000	*SAVE	*DN
+04101000	*SAVE	*DN
+04109000	*SAVE	*DN
+07041000	*SAVE	*DN
+07049000	*SAVE	*DN
+07095200	*SAVE	*DN
+07095300	*SAVE	*DN
+07095400	*SAVE	*DN
+07095500	*SAVE	*DN
+07095600	*SAVE	*DN
+07095900	*SAVE	*DN
+07123400	*SAVE	*DN
+07123900	*SAVE	*DN
+08029100	*SAVE	*DN
+08029200	*SAVE	*DN
+08029900	*SAVE	*DN
+12116000	*SAVE	*DN
+12119090	*SAVE	*DN
+15092000	*SAVE	*DN
+15093000	*SAVE	*DN
+15094000	*SAVE	*DN
+15101000	*SAVE	*DN
+15109000	*SAVE	*DN
+15156000	*SAVE	*DN
+15163000	*SAVE	*DN
+30069300	*SAVE	*DN
+20029000	*SAVE	*DN
+24049100	*SAVE	*DN
+24039100	*SAVE	*DN
+24041100	*SAVE	*DN
+24039910	*SAVE	*DN
+24039990	*SAVE	*DN
+24041900	*SAVE	*DN
+28444310	*SAVE	*DN
+28444320	*SAVE	*DN
+28444330	*SAVE	*DN
+28444100	*SAVE	*DN
+28444200	*SAVE	*DN
+28444390	*SAVE	*DN
+28444400	*SAVE	*DN
+28452000	*SAVE	*DN
+28453000	*SAVE	*DN
+28454000	*SAVE	*DN
+29036200	*SAVE	*DN
+29035910	*SAVE	*DN
+29034800	*SAVE	*DN
+29034900	*SAVE	*DN
+29035100	*SAVE	*DN
+29036100	*SAVE	*DN
+29036910	*SAVE	*DN
+29036920	*SAVE	*DN
+29096090	*SAVE	*DN
+29301000	*SAVE	*DN
+29314100	*SAVE	*DN
+29314200	*SAVE	*DN
+29314300	*SAVE	*DN
+29314990	*SAVE	*DN
+29314600	*SAVE	*DN
+29314700	*SAVE	*DN
+29314500	*SAVE	*DN
+29314912	*SAVE	*DN
+29315912	*SAVE	*DN
+29314914	*SAVE	*DN
+29314913	*SAVE	*DN
+29315400	*SAVE	*DN
+29314915	*SAVE	*DN
+29314916	*SAVE	*DN
+29314911	*SAVE	*DN
+29315911	*SAVE	*DN
+29315913	*SAVE	*DN
+29315991	*SAVE	*DN
+29315992	*SAVE	*DN
+29315993	*SAVE	*DN
+29315994	*SAVE	*DN
+29314920	*SAVE	*DN
+29314400	*SAVE	*DN
+29314930	*SAVE	*DN
+29315100	*SAVE	*DN
+29315200	*SAVE	*DN
+29314940	*SAVE	*DN
+29314800	*SAVE	*DN
+29315300	*SAVE	*DN
+29315999	*SAVE	*DN
+29329600	*SAVE	*DN
+29333332	*SAVE	*DN
+29333339	*SAVE	*DN
+29333400	*SAVE	*DN
+29333500	*SAVE	*DN
+29333937	*SAVE	*DN
+29333331	*SAVE	*DN
+29333394	*SAVE	*DN
+29333600	*SAVE	*DN
+29333700	*SAVE	*DN
+29349200	*SAVE	*DN
+29352000	*SAVE	*DN
+29397210	*SAVE	*DN
+29397220	*SAVE	*DN
+29397290	*SAVE	*DN
+29394510	*SAVE	*DN
+29394520	*SAVE	*DN
+29394530	*SAVE	*DN
+29397990	*SAVE	*DN
+38221100	*SAVE	*DN
+30021300	*SAVE	*DN
+38221200	*SAVE	*DN
+38221990	*SAVE	*DN
+38221940	*SAVE	*DN
+30021400	*SAVE	*DN
+30021590	*SAVE	*DN
+30024111	*SAVE	*DN
+30024112	*SAVE	*DN
+30024113	*SAVE	*DN
+30024114	*SAVE	*DN
+30024115	*SAVE	*DN
+30024116	*SAVE	*DN
+30024117	*SAVE	*DN
+30024118	*SAVE	*DN
+30024119	*SAVE	*DN
+30024121	*SAVE	*DN
+30024122	*SAVE	*DN
+30024123	*SAVE	*DN
+30024124	*SAVE	*DN
+30024125	*SAVE	*DN
+30024126	*SAVE	*DN
+30024127	*SAVE	*DN
+30024128	*SAVE	*DN
+30024129	*SAVE	*DN
+30024210	*SAVE	*DN
+30024220	*SAVE	*DN
+30024230	*SAVE	*DN
+30024240	*SAVE	*DN
+30024250	*SAVE	*DN
+30024260	*SAVE	*DN
+30024270	*SAVE	*DN
+30024280	*SAVE	*DN
+30024290	*SAVE	*DN
+38221930	*SAVE	*DN
+30024910	*SAVE	*DN
+30024920	*SAVE	*DN
+30024991	*SAVE	*DN
+30025100	*SAVE	*DN
+30024992	*SAVE	*DN
+30024993	*SAVE	*DN
+30024994	*SAVE	*DN
+30024999	*SAVE	*DN
+30025900	*SAVE	*DN
+30029000	*SAVE	*DN
+38221300	*SAVE	*DN
+32041810	*SAVE	*DN
+32041820	*SAVE	*DN
+32041830	*SAVE	*DN
+32041890	*SAVE	*DN
+34023910	*SAVE	*DN
+34023920	*SAVE	*DN
+34023930	*SAVE	*DN
+34023100	*SAVE	*DN
+34023990	*SAVE	*DN
+34024110	*SAVE	*DN
+34024190	*SAVE	*DN
+34024200	*SAVE	*DN
+34024900	*SAVE	*DN
+34025000	*SAVE	*DN
+36031000	*SAVE	*DN
+36032000	*SAVE	*DN
+36033000	*SAVE	*DN
+36034000	*SAVE	*DN
+36035000	*SAVE	*DN
+36036000	*SAVE	*DN
+38085910	*SAVE	*DN
+38085929	*SAVE	*DN
+38089111	*SAVE	*DN
+38089119	*SAVE	*DN
+38085925	*SAVE	*DN
+38089196	*SAVE	*DN
+38085926	*SAVE	*DN
+38089199	*SAVE	*DN
+38089993	*SAVE	*DN
+38089995	*SAVE	*DN
+38221910	*SAVE	*DN
+38221920	*SAVE	*DN
+38229000	*SAVE	*DN
+38271110	*SAVE	*DN
+38271190	*SAVE	*DN
+38272000	*SAVE	*DN
+38271200	*SAVE	*DN
+38273110	*SAVE	*DN
+38273210	*SAVE	*DN
+38273190	*SAVE	*DN
+38273290	*SAVE	*DN
+38273900	*SAVE	*DN
+38271300	*SAVE	*DN
+38271400	*SAVE	*DN
+38274000	*SAVE	*DN
+38276100	*SAVE	*DN
+38276200	*SAVE	*DN
+38276300	*SAVE	*DN
+38276400	*SAVE	*DN
+38276500	*SAVE	*DN
+38276800	*SAVE	*DN
+38275100	*SAVE	*DN
+38275900	*SAVE	*DN
+38276900	*SAVE	*DN
+38279000	*SAVE	*DN
+38248900	*SAVE	*DN
+38249200	*SAVE	*DN
+38249959	*SAVE	*DN
+24041200	*SAVE	*DN
+24049200	*SAVE	*DN
+24049900	*SAVE	*DN
+39011020	*SAVE	*DN
+39011030	*SAVE	*DN
+39014000	*SAVE	*DN
+39072911	*SAVE	*DN
+39072912	*SAVE	*DN
+39072920	*SAVE	*DN
+39072931	*SAVE	*DN
+39072939	*SAVE	*DN
+39072941	*SAVE	*DN
+39072942	*SAVE	*DN
+39072949	*SAVE	*DN
+39072100	*SAVE	*DN
+39072990	*SAVE	*DN
+39112000	*SAVE	*DN
+40151200	*SAVE	*DN
+44013200	*SAVE	*DN
+44013900	*SAVE	*DN
+44014100	*SAVE	*DN
+44014900	*SAVE	*DN
+44022000	*SAVE	*DN
+44032100	*SAVE	*DN
+44032200	*SAVE	*DN
+44032300	*SAVE	*DN
+44032400	*SAVE	*DN
+44032500	*SAVE	*DN
+44032600	*SAVE	*DN
+44034200	*SAVE	*DN
+44039300	*SAVE	*DN
+44039400	*SAVE	*DN
+44039500	*SAVE	*DN
+44039600	*SAVE	*DN
+44071100	*SAVE	*DN
+44071300	*SAVE	*DN
+44071200	*SAVE	*DN
+44071400	*SAVE	*DN
+44071900	*SAVE	*DN
+44072300	*SAVE	*DN
+44125100	*SAVE	*DN
+44125200	*SAVE	*DN
+44125900	*SAVE	*DN
+44124100	*SAVE	*DN
+44124200	*SAVE	*DN
+44124900	*SAVE	*DN
+44129100	*SAVE	*DN
+44129200	*SAVE	*DN
+44141000	*SAVE	*DN
+44149000	*SAVE	*DN
+44181100	*SAVE	*DN
+44181900	*SAVE	*DN
+44182100	*SAVE	*DN
+44182900	*SAVE	*DN
+44183000	*SAVE	*DN
+44188100	*SAVE	*DN
+44188200	*SAVE	*DN
+44188300	*SAVE	*DN
+44188900	*SAVE	*DN
+44189100	*SAVE	*DN
+44189200	*SAVE	*DN
+44189900	*SAVE	*DN
+44192000	*SAVE	*DN
+44199000	*SAVE	*DN
+44201100	*SAVE	*DN
+44201900	*SAVE	*DN
+44212000	*SAVE	*DN
+44219100	*SAVE	*DN
+49059000	*SAVE	*DN
+49052000	*SAVE	*DN
+55011100	*SAVE	*DN
+55011900	*SAVE	*DN
+57032100	*SAVE	*DN
+57032900	*SAVE	*DN
+57033100	*SAVE	*DN
+57033900	*SAVE	*DN
+58021000	*SAVE	*DN
+62012000	*SAVE	*DN
+62013000	*SAVE	*DN
+62014000	*SAVE	*DN
+62019000	*SAVE	*DN
+62022000	*SAVE	*DN
+62023000	*SAVE	*DN
+62024000	*SAVE	*DN
+62029000	*SAVE	*DN
+68151100	*SAVE	*DN
+68151200	*SAVE	*DN
+68151300	*SAVE	*DN
+68151900	*SAVE	*DN
+70191300	*SAVE	*DN
+70191400	*SAVE	*DN
+70191500	*SAVE	*DN
+70197100	*SAVE	*DN
+70196200	*SAVE	*DN
+70196900	*SAVE	*DN
+70197200	*SAVE	*DN
+70197390	*SAVE	*DN
+70198000	*SAVE	*DN
+70196100	*SAVE	*DN
+70196500	*SAVE	*DN
+70196600	*SAVE	*DN
+70196300	*SAVE	*DN
+70196400	*SAVE	*DN
+70197310	*SAVE	*DN
+71042100	*SAVE	*DN
+71042900	*SAVE	*DN
+71049100	*SAVE	*DN
+71049900	*SAVE	*DN
+71129100	*SAVE	*DN
+71129200	*SAVE	*DN
+71129900	*SAVE	*DN
+74192000	*SAVE	*DN
+74198090	*SAVE	*DN
+74198010	*SAVE	*DN
+74198020	*SAVE	*DN
+74198030	*SAVE	*DN
+74198040	*SAVE	*DN
+81039100	*SAVE	*DN
+81039900	*SAVE	*DN
+81061000	*SAVE	*DN
+81069000	*SAVE	*DN
+81126900	*SAVE	*DN
+81126100	*SAVE	*DN
+81092100	*SAVE	*DN
+81092900	*SAVE	*DN
+81093100	*SAVE	*DN
+81093900	*SAVE	*DN
+81099100	*SAVE	*DN
+81099900	*SAVE	*DN
+81123100	*SAVE	*DN
+81124100	*SAVE	*DN
+81123900	*SAVE	*DN
+81124900	*SAVE	*DN
+84147000	*SAVE	*DN
+84149040	*SAVE	*DN
+84191200	*SAVE	*DN
+84191900	*SAVE	*DN
+84193300	*SAVE	*DN
+84193400	*SAVE	*DN
+84193500	*SAVE	*DN
+84213200	*SAVE	*DN
+84287000	*SAVE	*DN
+84858000	*SAVE	*DN
+84621900	*SAVE	*DN
+84626100	*SAVE	*DN
+84626200	*SAVE	*DN
+84626300	*SAVE	*DN
+84626900	*SAVE	*DN
+84629000	*SAVE	*DN
+84621100	*SAVE	*DN
+84625100	*SAVE	*DN
+84625900	*SAVE	*DN
+84622200	*SAVE	*DN
+84622300	*SAVE	*DN
+84622400	*SAVE	*DN
+84622500	*SAVE	*DN
+84622600	*SAVE	*DN
+84623200	*SAVE	*DN
+84623300	*SAVE	*DN
+84623900	*SAVE	*DN
+84624200	*SAVE	*DN
+84851000	*SAVE	*DN
+84859000	*SAVE	*DN
+84705010	*SAVE	*DN
+84714100	*SAVE	*DN
+84717010	*SAVE	*DN
+84717020	*SAVE	*DN
+84717030	*SAVE	*DN
+84717040	*SAVE	*DN
+84729020	*SAVE	*DN
+85249100	*SAVE	*DN
+85249200	*SAVE	*DN
+85249900	*SAVE	*DN
+84733090	*SAVE	*DN
+84853000	*SAVE	*DN
+84852000	*SAVE	*DN
+84798300	*SAVE	*DN
+85017100	*SAVE	*DN
+85017210	*SAVE	*DN
+85017290	*SAVE	*DN
+85018000	*SAVE	*DN
+85141100	*SAVE	*DN
+85141900	*SAVE	*DN
+85143900	*SAVE	*DN
+85143200	*SAVE	*DN
+85143100	*SAVE	*DN
+85171410	*SAVE	*DN
+85171490	*SAVE	*DN
+85171300	*SAVE	*DN
+85171431	*SAVE	*DN
+85171432	*SAVE	*DN
+85171439	*SAVE	*DN
+85171441	*SAVE	*DN
+85171449	*SAVE	*DN
+85176256	*SAVE	*DN
+85176273	*SAVE	*DN
+85171890	*SAVE	*DN
+85171830	*SAVE	*DN
+85176215	*SAVE	*DN
+85176234	*SAVE	*DN
+85177900	*SAVE	*DN
+85177110	*SAVE	*DN
+85177190	*SAVE	*DN
+85229000	*SAVE	*DN
+85241100	*SAVE	*DN
+85241200	*SAVE	*DN
+85241900	*SAVE	*DN
+85258100	*SAVE	*DN
+85258200	*SAVE	*DN
+85258300	*SAVE	*DN
+85258911	*SAVE	*DN
+85258912	*SAVE	*DN
+88062100	*SAVE	*DN
+88062200	*SAVE	*DN
+88062300	*SAVE	*DN
+88062400	*SAVE	*DN
+88062900	*SAVE	*DN
+88069100	*SAVE	*DN
+88069200	*SAVE	*DN
+88069300	*SAVE	*DN
+88069400	*SAVE	*DN
+88069900	*SAVE	*DN
+85258913	*SAVE	*DN
+85258914	*SAVE	*DN
+85258919	*SAVE	*DN
+85258921	*SAVE	*DN
+85258922	*SAVE	*DN
+85258929	*SAVE	*DN
+85271900	*SAVE	*DN
+85284200	*SAVE	*DN
+85284990	*SAVE	*DN
+85284930	*SAVE	*DN
+85285200	*SAVE	*DN
+85285900	*SAVE	*DN
+85291020	*SAVE	*DN
+85299050	*SAVE	*DN
+85395200	*SAVE	*DN
+85395100	*SAVE	*DN
+85414111	*SAVE	*DN
+85414112	*SAVE	*DN
+85414290	*SAVE	*DN
+85414210	*SAVE	*DN
+85414220	*SAVE	*DN
+85414900	*SAVE	*DN
+85414121	*SAVE	*DN
+85414122	*SAVE	*DN
+85414123	*SAVE	*DN
+85414124	*SAVE	*DN
+85414300	*SAVE	*DN
+85415100	*SAVE	*DN
+85415900	*SAVE	*DN
+85429000	*SAVE	*DN
+85434000	*SAVE	*DN
+85491100	*SAVE	*DN
+85491200	*SAVE	*DN
+85491300	*SAVE	*DN
+85491400	*SAVE	*DN
+85491900	*SAVE	*DN
+85480010	*SAVE	*DN
+85480090	*SAVE	*DN
+85492100	*SAVE	*DN
+85492900	*SAVE	*DN
+85493100	*SAVE	*DN
+85493900	*SAVE	*DN
+85499100	*SAVE	*DN
+85499900	*SAVE	*DN
+87012100	*SAVE	*DN
+87012200	*SAVE	*DN
+87012300	*SAVE	*DN
+87012400	*SAVE	*DN
+87012900	*SAVE	*DN
+87044100	*SAVE	*DN
+87044200	*SAVE	*DN
+87044300	*SAVE	*DN
+87042340	*SAVE	*DN
+87045100	*SAVE	*DN
+87045200	*SAVE	*DN
+87046000	*SAVE	*DN
+87082200	*SAVE	*DN
+88061000	*SAVE	*DN
+88071000	*SAVE	*DN
+88072000	*SAVE	*DN
+88073000	*SAVE	*DN
+88079000	*SAVE	*DN
+89031100	*SAVE	*DN
+89031200	*SAVE	*DN
+89031900	*SAVE	*DN
+89032100	*SAVE	*DN
+89032200	*SAVE	*DN
+89032300	*SAVE	*DN
+89033100	*SAVE	*DN
+89033200	*SAVE	*DN
+89033300	*SAVE	*DN
+89039300	*SAVE	*DN
+90065959	*SAVE	*DN
+90065940	*SAVE	*DN
+90138000	*SAVE	*DN
+90229010	*SAVE	*DN
+90229020	*SAVE	*DN
+90229091	*SAVE	*DN
+90278911	*SAVE	*DN
+90278912	*SAVE	*DN
+90278913	*SAVE	*DN
+90278914	*SAVE	*DN
+90278100	*SAVE	*DN
+90278920	*SAVE	*DN
+90278991	*SAVE	*DN
+91149000	*SAVE	*DN
+94013100	*SAVE	*DN
+94013900	*SAVE	*DN
+94014100	*SAVE	*DN
+94014900	*SAVE	*DN
+94019100	*SAVE	*DN
+94019900	*SAVE	*DN
+94039100	*SAVE	*DN
+94039900	*SAVE	*DN
+94044000	*SAVE	*DN
+94051110	*SAVE	*DN
+94051910	*SAVE	*DN
+94051190	*SAVE	*DN
+94051990	*SAVE	*DN
+94052100	*SAVE	*DN
+94052900	*SAVE	*DN
+94053100	*SAVE	*DN
+94053900	*SAVE	*DN
+94054100	*SAVE	*DN
+94054200	*SAVE	*DN
+94054900	*SAVE	*DN
+94056100	*SAVE	*DN
+94056900	*SAVE	*DN
+94062000	*SAVE	*DN
+95082110	*SAVE	*DN
+95082120	*SAVE	*DN
+95082190	*SAVE	*DN
+95082290	*SAVE	*DN
+95082210	*SAVE	*DN
+95082300	*SAVE	*DN
+95082400	*SAVE	*DN
+95082600	*SAVE	*DN
+95082500	*SAVE	*DN
+95082900	*SAVE	*DN
+95083000	*SAVE	*DN
+95084000	*SAVE	*DN
+96121000	*SAVE	*DN
+97012100	*SAVE	*DN
+97019100	*SAVE	*DN
+97012200	*SAVE	*DN
+97012900	*SAVE	*DN
+97019200	*SAVE	*DN
+97019900	*SAVE	*DN
+97021000	*SAVE	*DN
+97029000	*SAVE	*DN
+97031000	*SAVE	*DN
+97039000	*SAVE	*DN
+97051000	*SAVE	*DN
+97052100	*SAVE	*DN
+97052200	*SAVE	*DN
+97052900	*SAVE	*DN
+97053100	*SAVE	*DN
+97053900	*SAVE	*DN
+97061000	*SAVE	*DN
+97069000	*SAVE	*DN
+enddata
+beginoptions
+AutoTab=false
+HourGlass=false
+AutoInsert=true
+ProgressBar=true
+TitleSize=false
+DataColour=16777215
+CommandColour=16777215
+KeystrokeColour=16777215
+DataSource=0
+ImportLoad=0
+EnableMacro=1
+DatePicker=1
+LegacyKeyMode=0
+IEOnly=0
+StopIfNotIE=0
+LoadControl=0
+UseBC=0
+SkipBlank=1
+Protection=￶�￶�￮￥￮￥￦￭￦￭￮￥￮￥￶�￶�ￎￅￎￅￆￍￆￍￎￅￎￅ￶�￶�￮￥￮￥￦￭￦￭￮￥￮￥￶�￶�%CR%%CR%v}v}nenefmfmnenev}v}NE
+endoptions
+beginformat
+FontName=Default
+FontSize=8
+endformat
+begincommands
+Command	EBS - R12	EBS - 11i	EBS - 10.7/11.0 NCA	EBS - 10.7SC	Siebel	SAP	Peoplesoft	JDE	Dynamics	Other	Description
+TAB	\{TAB}	\{TAB}	\{TAB}	\{TAB}	\{TAB}	\{TAB}	\{TAB}	\{TAB}	\{TAB}	\{TAB}	TAB key
+ENT	\{ENTER}	\{ENTER}	\{ENTER}	\{ENTER}	\{ENTER}	\{ENTER}	\{ENTER}	\{ENTER}	\{ENTER}	\{ENTER}	Enter key
+*UP	\{UP}	\{UP}	\{UP}	\{UP}	\{UP}	\{UP}	\{UP}	\{UP}	\{UP}	\{UP}	Up arrow key
+*DN	\{DOWN}	\{DOWN}	\{DOWN}	\{DOWN}	\{DOWN}	\{DOWN}	\{DOWN}	\{DOWN}	\{DOWN}	\{DOWN}	Down arrow key
+*LT	\{LEFT}	\{LEFT}	\{LEFT}	\{LEFT}	\{LEFT}	\{LEFT}	\{LEFT}	\{LEFT}	\{LEFT}	\{LEFT}	Left arrow key
+*RT	\{RIGHT}	\{RIGHT}	\{RIGHT}	\{RIGHT}	\{RIGHT}	\{RIGHT}	\{RIGHT}	\{RIGHT}	\{RIGHT}	\{RIGHT}	Right arrow key
+*SP	\%F%V	\%F%V	\%A%{DOWN 4}{ENTER}	\%A%A							Save & proceed
+*SAVE	\^S	\^S	\^S	\{F10}							Save
+*NB	\+{PGDN}	\+{PGDN}	\+{PGDN}	\^{PGDN}							Next Block
+*PB	\+{PGUP}	\+{PGUP}	\+{PGUP}	\^{PGUP}							Previous Block
+*NF	\{TAB}	\{TAB}	\%G%{DOWN}{ENTER}	\{TAB}							Next Field
+*PF	\+{TAB}	\+{TAB}	\%G%{DOWN 2}{ENTER}	\+{TAB}							Previous Field
+*NR	\{DOWN}	\{DOWN}	\%G%{DOWN 3}{ENTER}	\+{DOWN}							Next record
+*PR	\{UP}	\{UP}	\%G%{DOWN 4}{ENTER}	\+{UP}							Previous record
+*FR	\%V%DF	\%V%DF	\%G%{DOWN 5}{ENTER}	\%G%F							First record
+*LR	\%V%DL	\%V%DL	\%G%{DOWN 6}{ENTER}	\%G%L							Last record
+*ER	\{F6}	\{F6}	\{F6}	\+{F4}							Erase record
+*DR	\^{UP}	\^{UP}	\^{UP}	\+{F6}							Delete record
+*SB	\ 	\ 	\ 	\ 	\ 	\ 	\ 	\ 	\ 	\ 	Space bar
+*ST	\{HOME}+{END}	\{HOME}+{END}	\{HOME}+{END}	\{HOME}+{END}	\{HOME}+{END}	\{HOME}+{END}	\{HOME}+{END}	\{HOME}+{END}	\{HOME}+{END}	\{HOME}+{END}	Select field text
+*BM	\^B	\^B	\^B	\{F5}							Block menu
+*QE	\{F11}	\{F11}	\{F11}	\{F7}							Query enter
+*QR	\^{F11}	\^{F11}	\^{F11}	\{F8}							Query run
+*FI	\%V%F	\%V%F	\%Q%{DOWN}{ENTER}								Find
+*FA	\%V%I	\%V%I	\%Q%{DOWN 2}{ENTER}								Find all
+*IR	\^{DOWN}	\^{DOWN}	\^{DOWN}	\{F6}							Insert record
+*CL	\{F5}	\{F5}	\{F5}	\^U							Clear field
+*FE	\^E	\^E	\^E	\^E							Field edit
+*AA	\%A	\%A	\%A	\%A	\%A	\%A	\%A	\%A	\%A	\%A	Alt A
+*AB	\%B	\%B	\%B	\%B	\%B	\%B	\%B	\%B	\%B	\%B	Alt B
+*AC	\%C	\%C	\%C	\%C	\%C	\%C	\%C	\%C	\%C	\%C	Alt C
+*AD	\%D	\%D	\%D	\%D	\%D	\%D	\%D	\%D	\%D	\%D	Alt D
+*AE	\%E	\%E	\%E	\%E	\%E	\%E	\%E	\%E	\%E	\%E	Alt E
+*AF	\%F	\%F	\%F	\%F	\%F	\%F	\%F	\%F	\%F	\%F	Alt F
+*AG	\%G	\%G	\%G	\%G	\%G	\%G	\%G	\%G	\%G	\%G	Alt G
+*AH	\%H	\%H	\%H	\%H	\%H	\%H	\%H	\%H	\%H	\%H	Alt H
+*AI	\%I	\%I	\%I	\%I	\%I	\%I	\%I	\%I	\%I	\%I	Alt I
+*AJ	\%J	\%J	\%J	\%J	\%J	\%J	\%J	\%J	\%J	\%J	Alt J
+*AK	\%K	\%K	\%K	\%K	\%K	\%K	\%K	\%K	\%K	\%K	Alt K
+*AL	\%L	\%L	\%L	\%L	\%L	\%L	\%L	\%L	\%L	\%L	Alt L
+*AM	\%M	\%M	\%M	\%M	\%M	\%M	\%M	\%M	\%M	\%M	Alt M
+*AN	\%N	\%N	\%N	\%N	\%N	\%N	\%N	\%N	\%N	\%N	Alt N
+*AO	\%O	\%O	\%O	\%O	\%O	\%O	\%O	\%O	\%O	\%O	Alt O
+*AP	\%P	\%P	\%P	\%P	\%P	\%P	\%P	\%P	\%P	\%P	Alt P
+*AQ	\%Q	\%Q	\%Q	\%Q	\%Q	\%Q	\%Q	\%Q	\%Q	\%Q	Alt Q
+*AR	\%R	\%R	\%R	\%R	\%R	\%R	\%R	\%R	\%R	\%R	Alt R
+*AS	\%S	\%S	\%S	\%S	\%S	\%S	\%S	\%S	\%S	\%S	Alt S
+*AT	\%T	\%T	\%T	\%T	\%T	\%T	\%T	\%T	\%T	\%T	Alt T
+*AU	\%U	\%U	\%U	\%U	\%U	\%U	\%U	\%U	\%U	\%U	Alt U
+*AV	\%V	\%V	\%V	\%V	\%V	\%V	\%V	\%V	\%V	\%V	Alt V
+*AW	\%W	\%W	\%W	\%W	\%W	\%W	\%W	\%W	\%W	\%W	Alt W
+*AX	\%X	\%X	\%X	\%X	\%X	\%X	\%X	\%X	\%X	\%X	Alt X
+*AY	\%Y	\%Y	\%Y	\%Y	\%Y	\%Y	\%Y	\%Y	\%Y	\%Y	Alt Y
+*AZ	\%Z	\%Z	\%Z	\%Z	\%Z	\%Z	\%Z	\%Z	\%Z	\%Z	Alt Z
+endcommands
+beginhdrgrid
+																																																																																																			
+
+0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+begindata
+enddata
+endhdrgrid
+beginftrgrid
+																																																																																																		
+
+000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+begindata
+enddata
+endftrgrid

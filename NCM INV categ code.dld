@@ -1,0 +1,751 @@
+﻿begindelays
+DataDelay=0.2
+CellDelay=0.2
+FormDelay=0.25
+KeyHold=50
+SystemHold=50
+HourGlass=250
+TAB=0.2
+ENT=0
+*UP=0
+*DN=0
+*LT=0
+*RT=0
+*SP=0
+*SAVE=0
+*NB=0
+*PB=0
+*NF=0
+*PF=0
+*NR=0
+*PR=0
+*FR=0
+*LR=0
+*ER=0
+*DR=0
+*SB=0
+*ST=0
+*BM=0
+*QE=0
+*QR=0
+*FI=0
+*FA=0
+*IR=0
+*CL=0
+*FE=0
+*AA=0
+*AB=0
+*AC=0
+*AD=0
+*AE=0
+*AF=0
+*AG=0
+*AH=0
+*AI=0
+*AJ=0
+*AK=0
+*AL=0
+*AM=0
+*AN=0
+*AO=0
+*AP=0
+*AQ=0
+*AR=0
+*AS=0
+*AT=0
+*AU=0
+*AV=0
+*AW=0
+*AX=0
+*AY=0
+*AZ=0
+enddelays
+beginheader
+Data	tab	Data	tab	Data	*save	*ML(18,65)																																																																																																				
+
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+endheader
+beginother
+Window=Oracle Applications - GLTEST Cloned From GLPROD on 13-Mar-22
+Description=
+CommandGroup=EBS - R12
+PasteCtrlV=1
+endother
+begindata
+Fiscal Classification	tab	03091000	tab	03091000	*save	*ML(18,65)
+Fiscal Classification	tab	03061990	tab	03061990	*save	*ML(18,65)
+Fiscal Classification	tab	03099000	tab	03099000	*save	*ML(18,65)
+Fiscal Classification	tab	03063990	tab	03063990	*save	*ML(18,65)
+Fiscal Classification	tab	03069990	tab	03069990	*save	*ML(18,65)
+Fiscal Classification	tab	03072100	tab	03072100	*save	*ML(18,65)
+Fiscal Classification	tab	03072200	tab	03072200	*save	*ML(18,65)
+Fiscal Classification	tab	03072900	tab	03072900	*save	*ML(18,65)
+Fiscal Classification	tab	03079100	tab	03079100	*save	*ML(18,65)
+Fiscal Classification	tab	03079200	tab	03079200	*save	*ML(18,65)
+Fiscal Classification	tab	03079900	tab	03079900	*save	*ML(18,65)
+Fiscal Classification	tab	03089000	tab	03089000	*save	*ML(18,65)
+Fiscal Classification	tab	04032000	tab	04032000	*save	*ML(18,65)
+Fiscal Classification	tab	04101000	tab	04101000	*save	*ML(18,65)
+Fiscal Classification	tab	04109000	tab	04109000	*save	*ML(18,65)
+Fiscal Classification	tab	07041000	tab	07041000	*save	*ML(18,65)
+Fiscal Classification	tab	07049000	tab	07049000	*save	*ML(18,65)
+Fiscal Classification	tab	07095200	tab	07095200	*save	*ML(18,65)
+Fiscal Classification	tab	07095300	tab	07095300	*save	*ML(18,65)
+Fiscal Classification	tab	07095400	tab	07095400	*save	*ML(18,65)
+Fiscal Classification	tab	07095500	tab	07095500	*save	*ML(18,65)
+Fiscal Classification	tab	07095600	tab	07095600	*save	*ML(18,65)
+Fiscal Classification	tab	07095900	tab	07095900	*save	*ML(18,65)
+Fiscal Classification	tab	07123400	tab	07123400	*save	*ML(18,65)
+Fiscal Classification	tab	07123900	tab	07123900	*save	*ML(18,65)
+Fiscal Classification	tab	08029100	tab	08029100	*save	*ML(18,65)
+Fiscal Classification	tab	08029200	tab	08029200	*save	*ML(18,65)
+Fiscal Classification	tab	08029900	tab	08029900	*save	*ML(18,65)
+Fiscal Classification	tab	12116000	tab	12116000	*save	*ML(18,65)
+Fiscal Classification	tab	12119090	tab	12119090	*save	*ML(18,65)
+Fiscal Classification	tab	15092000	tab	15092000	*save	*ML(18,65)
+Fiscal Classification	tab	15093000	tab	15093000	*save	*ML(18,65)
+Fiscal Classification	tab	15094000	tab	15094000	*save	*ML(18,65)
+Fiscal Classification	tab	15101000	tab	15101000	*save	*ML(18,65)
+Fiscal Classification	tab	15109000	tab	15109000	*save	*ML(18,65)
+Fiscal Classification	tab	15156000	tab	15156000	*save	*ML(18,65)
+Fiscal Classification	tab	15163000	tab	15163000	*save	*ML(18,65)
+Fiscal Classification	tab	30069300	tab	30069300	*save	*ML(18,65)
+Fiscal Classification	tab	20029000	tab	20029000	*save	*ML(18,65)
+Fiscal Classification	tab	24049100	tab	24049100	*save	*ML(18,65)
+Fiscal Classification	tab	24039100	tab	24039100	*save	*ML(18,65)
+Fiscal Classification	tab	24041100	tab	24041100	*save	*ML(18,65)
+Fiscal Classification	tab	24039910	tab	24039910	*save	*ML(18,65)
+Fiscal Classification	tab	24039990	tab	24039990	*save	*ML(18,65)
+Fiscal Classification	tab	24041900	tab	24041900	*save	*ML(18,65)
+Fiscal Classification	tab	28444310	tab	28444310	*save	*ML(18,65)
+Fiscal Classification	tab	28444320	tab	28444320	*save	*ML(18,65)
+Fiscal Classification	tab	28444330	tab	28444330	*save	*ML(18,65)
+Fiscal Classification	tab	28444100	tab	28444100	*save	*ML(18,65)
+Fiscal Classification	tab	28444200	tab	28444200	*save	*ML(18,65)
+Fiscal Classification	tab	28444390	tab	28444390	*save	*ML(18,65)
+Fiscal Classification	tab	28444400	tab	28444400	*save	*ML(18,65)
+Fiscal Classification	tab	28452000	tab	28452000	*save	*ML(18,65)
+Fiscal Classification	tab	28453000	tab	28453000	*save	*ML(18,65)
+Fiscal Classification	tab	28454000	tab	28454000	*save	*ML(18,65)
+Fiscal Classification	tab	29036200	tab	29036200	*save	*ML(18,65)
+Fiscal Classification	tab	29035910	tab	29035910	*save	*ML(18,65)
+Fiscal Classification	tab	29034800	tab	29034800	*save	*ML(18,65)
+Fiscal Classification	tab	29034900	tab	29034900	*save	*ML(18,65)
+Fiscal Classification	tab	29035100	tab	29035100	*save	*ML(18,65)
+Fiscal Classification	tab	29036100	tab	29036100	*save	*ML(18,65)
+Fiscal Classification	tab	29036910	tab	29036910	*save	*ML(18,65)
+Fiscal Classification	tab	29036920	tab	29036920	*save	*ML(18,65)
+Fiscal Classification	tab	29096090	tab	29096090	*save	*ML(18,65)
+Fiscal Classification	tab	29301000	tab	29301000	*save	*ML(18,65)
+Fiscal Classification	tab	29314100	tab	29314100	*save	*ML(18,65)
+Fiscal Classification	tab	29314200	tab	29314200	*save	*ML(18,65)
+Fiscal Classification	tab	29314300	tab	29314300	*save	*ML(18,65)
+Fiscal Classification	tab	29314990	tab	29314990	*save	*ML(18,65)
+Fiscal Classification	tab	29314600	tab	29314600	*save	*ML(18,65)
+Fiscal Classification	tab	29314700	tab	29314700	*save	*ML(18,65)
+Fiscal Classification	tab	29314500	tab	29314500	*save	*ML(18,65)
+Fiscal Classification	tab	29314912	tab	29314912	*save	*ML(18,65)
+Fiscal Classification	tab	29315912	tab	29315912	*save	*ML(18,65)
+Fiscal Classification	tab	29314914	tab	29314914	*save	*ML(18,65)
+Fiscal Classification	tab	29314913	tab	29314913	*save	*ML(18,65)
+Fiscal Classification	tab	29315400	tab	29315400	*save	*ML(18,65)
+Fiscal Classification	tab	29314915	tab	29314915	*save	*ML(18,65)
+Fiscal Classification	tab	29314916	tab	29314916	*save	*ML(18,65)
+Fiscal Classification	tab	29314911	tab	29314911	*save	*ML(18,65)
+Fiscal Classification	tab	29315911	tab	29315911	*save	*ML(18,65)
+Fiscal Classification	tab	29315913	tab	29315913	*save	*ML(18,65)
+Fiscal Classification	tab	29315991	tab	29315991	*save	*ML(18,65)
+Fiscal Classification	tab	29315992	tab	29315992	*save	*ML(18,65)
+Fiscal Classification	tab	29315993	tab	29315993	*save	*ML(18,65)
+Fiscal Classification	tab	29315994	tab	29315994	*save	*ML(18,65)
+Fiscal Classification	tab	29314920	tab	29314920	*save	*ML(18,65)
+Fiscal Classification	tab	29314400	tab	29314400	*save	*ML(18,65)
+Fiscal Classification	tab	29314930	tab	29314930	*save	*ML(18,65)
+Fiscal Classification	tab	29315100	tab	29315100	*save	*ML(18,65)
+Fiscal Classification	tab	29315200	tab	29315200	*save	*ML(18,65)
+Fiscal Classification	tab	29314940	tab	29314940	*save	*ML(18,65)
+Fiscal Classification	tab	29314800	tab	29314800	*save	*ML(18,65)
+Fiscal Classification	tab	29315300	tab	29315300	*save	*ML(18,65)
+Fiscal Classification	tab	29315999	tab	29315999	*save	*ML(18,65)
+Fiscal Classification	tab	29329600	tab	29329600	*save	*ML(18,65)
+Fiscal Classification	tab	29333332	tab	29333332	*save	*ML(18,65)
+Fiscal Classification	tab	29333339	tab	29333339	*save	*ML(18,65)
+Fiscal Classification	tab	29333400	tab	29333400	*save	*ML(18,65)
+Fiscal Classification	tab	29333500	tab	29333500	*save	*ML(18,65)
+Fiscal Classification	tab	29333937	tab	29333937	*save	*ML(18,65)
+Fiscal Classification	tab	29333331	tab	29333331	*save	*ML(18,65)
+Fiscal Classification	tab	29333394	tab	29333394	*save	*ML(18,65)
+Fiscal Classification	tab	29333600	tab	29333600	*save	*ML(18,65)
+Fiscal Classification	tab	29333700	tab	29333700	*save	*ML(18,65)
+Fiscal Classification	tab	29349200	tab	29349200	*save	*ML(18,65)
+Fiscal Classification	tab	29352000	tab	29352000	*save	*ML(18,65)
+Fiscal Classification	tab	29397210	tab	29397210	*save	*ML(18,65)
+Fiscal Classification	tab	29397220	tab	29397220	*save	*ML(18,65)
+Fiscal Classification	tab	29397290	tab	29397290	*save	*ML(18,65)
+Fiscal Classification	tab	29394510	tab	29394510	*save	*ML(18,65)
+Fiscal Classification	tab	29394520	tab	29394520	*save	*ML(18,65)
+Fiscal Classification	tab	29394530	tab	29394530	*save	*ML(18,65)
+Fiscal Classification	tab	29397990	tab	29397990	*save	*ML(18,65)
+Fiscal Classification	tab	38221100	tab	38221100	*save	*ML(18,65)
+Fiscal Classification	tab	30021300	tab	30021300	*save	*ML(18,65)
+Fiscal Classification	tab	38221200	tab	38221200	*save	*ML(18,65)
+Fiscal Classification	tab	38221990	tab	38221990	*save	*ML(18,65)
+Fiscal Classification	tab	38221940	tab	38221940	*save	*ML(18,65)
+Fiscal Classification	tab	30021400	tab	30021400	*save	*ML(18,65)
+Fiscal Classification	tab	30021590	tab	30021590	*save	*ML(18,65)
+Fiscal Classification	tab	30024111	tab	30024111	*save	*ML(18,65)
+Fiscal Classification	tab	30024112	tab	30024112	*save	*ML(18,65)
+Fiscal Classification	tab	30024113	tab	30024113	*save	*ML(18,65)
+Fiscal Classification	tab	30024114	tab	30024114	*save	*ML(18,65)
+Fiscal Classification	tab	30024115	tab	30024115	*save	*ML(18,65)
+Fiscal Classification	tab	30024116	tab	30024116	*save	*ML(18,65)
+Fiscal Classification	tab	30024117	tab	30024117	*save	*ML(18,65)
+Fiscal Classification	tab	30024118	tab	30024118	*save	*ML(18,65)
+Fiscal Classification	tab	30024119	tab	30024119	*save	*ML(18,65)
+Fiscal Classification	tab	30024121	tab	30024121	*save	*ML(18,65)
+Fiscal Classification	tab	30024122	tab	30024122	*save	*ML(18,65)
+Fiscal Classification	tab	30024123	tab	30024123	*save	*ML(18,65)
+Fiscal Classification	tab	30024124	tab	30024124	*save	*ML(18,65)
+Fiscal Classification	tab	30024125	tab	30024125	*save	*ML(18,65)
+Fiscal Classification	tab	30024126	tab	30024126	*save	*ML(18,65)
+Fiscal Classification	tab	30024127	tab	30024127	*save	*ML(18,65)
+Fiscal Classification	tab	30024128	tab	30024128	*save	*ML(18,65)
+Fiscal Classification	tab	30024129	tab	30024129	*save	*ML(18,65)
+Fiscal Classification	tab	30024210	tab	30024210	*save	*ML(18,65)
+Fiscal Classification	tab	30024220	tab	30024220	*save	*ML(18,65)
+Fiscal Classification	tab	30024230	tab	30024230	*save	*ML(18,65)
+Fiscal Classification	tab	30024240	tab	30024240	*save	*ML(18,65)
+Fiscal Classification	tab	30024250	tab	30024250	*save	*ML(18,65)
+Fiscal Classification	tab	30024260	tab	30024260	*save	*ML(18,65)
+Fiscal Classification	tab	30024270	tab	30024270	*save	*ML(18,65)
+Fiscal Classification	tab	30024280	tab	30024280	*save	*ML(18,65)
+Fiscal Classification	tab	30024290	tab	30024290	*save	*ML(18,65)
+Fiscal Classification	tab	38221930	tab	38221930	*save	*ML(18,65)
+Fiscal Classification	tab	30024910	tab	30024910	*save	*ML(18,65)
+Fiscal Classification	tab	30024920	tab	30024920	*save	*ML(18,65)
+Fiscal Classification	tab	30024991	tab	30024991	*save	*ML(18,65)
+Fiscal Classification	tab	30025100	tab	30025100	*save	*ML(18,65)
+Fiscal Classification	tab	30024992	tab	30024992	*save	*ML(18,65)
+Fiscal Classification	tab	30024993	tab	30024993	*save	*ML(18,65)
+Fiscal Classification	tab	30024994	tab	30024994	*save	*ML(18,65)
+Fiscal Classification	tab	30024999	tab	30024999	*save	*ML(18,65)
+Fiscal Classification	tab	30025900	tab	30025900	*save	*ML(18,65)
+Fiscal Classification	tab	30029000	tab	30029000	*save	*ML(18,65)
+Fiscal Classification	tab	38221300	tab	38221300	*save	*ML(18,65)
+Fiscal Classification	tab	32041810	tab	32041810	*save	*ML(18,65)
+Fiscal Classification	tab	32041820	tab	32041820	*save	*ML(18,65)
+Fiscal Classification	tab	32041830	tab	32041830	*save	*ML(18,65)
+Fiscal Classification	tab	32041890	tab	32041890	*save	*ML(18,65)
+Fiscal Classification	tab	34023910	tab	34023910	*save	*ML(18,65)
+Fiscal Classification	tab	34023920	tab	34023920	*save	*ML(18,65)
+Fiscal Classification	tab	34023930	tab	34023930	*save	*ML(18,65)
+Fiscal Classification	tab	34023100	tab	34023100	*save	*ML(18,65)
+Fiscal Classification	tab	34023990	tab	34023990	*save	*ML(18,65)
+Fiscal Classification	tab	34024110	tab	34024110	*save	*ML(18,65)
+Fiscal Classification	tab	34024190	tab	34024190	*save	*ML(18,65)
+Fiscal Classification	tab	34024200	tab	34024200	*save	*ML(18,65)
+Fiscal Classification	tab	34024900	tab	34024900	*save	*ML(18,65)
+Fiscal Classification	tab	34025000	tab	34025000	*save	*ML(18,65)
+Fiscal Classification	tab	36031000	tab	36031000	*save	*ML(18,65)
+Fiscal Classification	tab	36032000	tab	36032000	*save	*ML(18,65)
+Fiscal Classification	tab	36033000	tab	36033000	*save	*ML(18,65)
+Fiscal Classification	tab	36034000	tab	36034000	*save	*ML(18,65)
+Fiscal Classification	tab	36035000	tab	36035000	*save	*ML(18,65)
+Fiscal Classification	tab	36036000	tab	36036000	*save	*ML(18,65)
+Fiscal Classification	tab	38085910	tab	38085910	*save	*ML(18,65)
+Fiscal Classification	tab	38085929	tab	38085929	*save	*ML(18,65)
+Fiscal Classification	tab	38089111	tab	38089111	*save	*ML(18,65)
+Fiscal Classification	tab	38089119	tab	38089119	*save	*ML(18,65)
+Fiscal Classification	tab	38085925	tab	38085925	*save	*ML(18,65)
+Fiscal Classification	tab	38089196	tab	38089196	*save	*ML(18,65)
+Fiscal Classification	tab	38085926	tab	38085926	*save	*ML(18,65)
+Fiscal Classification	tab	38089199	tab	38089199	*save	*ML(18,65)
+Fiscal Classification	tab	38089993	tab	38089993	*save	*ML(18,65)
+Fiscal Classification	tab	38089995	tab	38089995	*save	*ML(18,65)
+Fiscal Classification	tab	38221910	tab	38221910	*save	*ML(18,65)
+Fiscal Classification	tab	38221920	tab	38221920	*save	*ML(18,65)
+Fiscal Classification	tab	38229000	tab	38229000	*save	*ML(18,65)
+Fiscal Classification	tab	38271110	tab	38271110	*save	*ML(18,65)
+Fiscal Classification	tab	38271190	tab	38271190	*save	*ML(18,65)
+Fiscal Classification	tab	38272000	tab	38272000	*save	*ML(18,65)
+Fiscal Classification	tab	38271200	tab	38271200	*save	*ML(18,65)
+Fiscal Classification	tab	38273110	tab	38273110	*save	*ML(18,65)
+Fiscal Classification	tab	38273210	tab	38273210	*save	*ML(18,65)
+Fiscal Classification	tab	38273190	tab	38273190	*save	*ML(18,65)
+Fiscal Classification	tab	38273290	tab	38273290	*save	*ML(18,65)
+Fiscal Classification	tab	38273900	tab	38273900	*save	*ML(18,65)
+Fiscal Classification	tab	38271300	tab	38271300	*save	*ML(18,65)
+Fiscal Classification	tab	38271400	tab	38271400	*save	*ML(18,65)
+Fiscal Classification	tab	38274000	tab	38274000	*save	*ML(18,65)
+Fiscal Classification	tab	38276100	tab	38276100	*save	*ML(18,65)
+Fiscal Classification	tab	38276200	tab	38276200	*save	*ML(18,65)
+Fiscal Classification	tab	38276300	tab	38276300	*save	*ML(18,65)
+Fiscal Classification	tab	38276400	tab	38276400	*save	*ML(18,65)
+Fiscal Classification	tab	38276500	tab	38276500	*save	*ML(18,65)
+Fiscal Classification	tab	38276800	tab	38276800	*save	*ML(18,65)
+Fiscal Classification	tab	38275100	tab	38275100	*save	*ML(18,65)
+Fiscal Classification	tab	38275900	tab	38275900	*save	*ML(18,65)
+Fiscal Classification	tab	38276900	tab	38276900	*save	*ML(18,65)
+Fiscal Classification	tab	38279000	tab	38279000	*save	*ML(18,65)
+Fiscal Classification	tab	38248900	tab	38248900	*save	*ML(18,65)
+Fiscal Classification	tab	38249200	tab	38249200	*save	*ML(18,65)
+Fiscal Classification	tab	38249959	tab	38249959	*save	*ML(18,65)
+Fiscal Classification	tab	24041200	tab	24041200	*save	*ML(18,65)
+Fiscal Classification	tab	24049200	tab	24049200	*save	*ML(18,65)
+Fiscal Classification	tab	24049900	tab	24049900	*save	*ML(18,65)
+Fiscal Classification	tab	39011020	tab	39011020	*save	*ML(18,65)
+Fiscal Classification	tab	39011030	tab	39011030	*save	*ML(18,65)
+Fiscal Classification	tab	39014000	tab	39014000	*save	*ML(18,65)
+Fiscal Classification	tab	39072911	tab	39072911	*save	*ML(18,65)
+Fiscal Classification	tab	39072912	tab	39072912	*save	*ML(18,65)
+Fiscal Classification	tab	39072920	tab	39072920	*save	*ML(18,65)
+Fiscal Classification	tab	39072931	tab	39072931	*save	*ML(18,65)
+Fiscal Classification	tab	39072939	tab	39072939	*save	*ML(18,65)
+Fiscal Classification	tab	39072941	tab	39072941	*save	*ML(18,65)
+Fiscal Classification	tab	39072942	tab	39072942	*save	*ML(18,65)
+Fiscal Classification	tab	39072949	tab	39072949	*save	*ML(18,65)
+Fiscal Classification	tab	39072100	tab	39072100	*save	*ML(18,65)
+Fiscal Classification	tab	39072990	tab	39072990	*save	*ML(18,65)
+Fiscal Classification	tab	39112000	tab	39112000	*save	*ML(18,65)
+Fiscal Classification	tab	40151200	tab	40151200	*save	*ML(18,65)
+Fiscal Classification	tab	44013200	tab	44013200	*save	*ML(18,65)
+Fiscal Classification	tab	44013900	tab	44013900	*save	*ML(18,65)
+Fiscal Classification	tab	44014100	tab	44014100	*save	*ML(18,65)
+Fiscal Classification	tab	44014900	tab	44014900	*save	*ML(18,65)
+Fiscal Classification	tab	44022000	tab	44022000	*save	*ML(18,65)
+Fiscal Classification	tab	44032100	tab	44032100	*save	*ML(18,65)
+Fiscal Classification	tab	44032200	tab	44032200	*save	*ML(18,65)
+Fiscal Classification	tab	44032300	tab	44032300	*save	*ML(18,65)
+Fiscal Classification	tab	44032400	tab	44032400	*save	*ML(18,65)
+Fiscal Classification	tab	44032500	tab	44032500	*save	*ML(18,65)
+Fiscal Classification	tab	44032600	tab	44032600	*save	*ML(18,65)
+Fiscal Classification	tab	44034200	tab	44034200	*save	*ML(18,65)
+Fiscal Classification	tab	44039300	tab	44039300	*save	*ML(18,65)
+Fiscal Classification	tab	44039400	tab	44039400	*save	*ML(18,65)
+Fiscal Classification	tab	44039500	tab	44039500	*save	*ML(18,65)
+Fiscal Classification	tab	44039600	tab	44039600	*save	*ML(18,65)
+Fiscal Classification	tab	44071100	tab	44071100	*save	*ML(18,65)
+Fiscal Classification	tab	44071300	tab	44071300	*save	*ML(18,65)
+Fiscal Classification	tab	44071200	tab	44071200	*save	*ML(18,65)
+Fiscal Classification	tab	44071400	tab	44071400	*save	*ML(18,65)
+Fiscal Classification	tab	44071900	tab	44071900	*save	*ML(18,65)
+Fiscal Classification	tab	44072300	tab	44072300	*save	*ML(18,65)
+Fiscal Classification	tab	44125100	tab	44125100	*save	*ML(18,65)
+Fiscal Classification	tab	44125200	tab	44125200	*save	*ML(18,65)
+Fiscal Classification	tab	44125900	tab	44125900	*save	*ML(18,65)
+Fiscal Classification	tab	44124100	tab	44124100	*save	*ML(18,65)
+Fiscal Classification	tab	44124200	tab	44124200	*save	*ML(18,65)
+Fiscal Classification	tab	44124900	tab	44124900	*save	*ML(18,65)
+Fiscal Classification	tab	44129100	tab	44129100	*save	*ML(18,65)
+Fiscal Classification	tab	44129200	tab	44129200	*save	*ML(18,65)
+Fiscal Classification	tab	44141000	tab	44141000	*save	*ML(18,65)
+Fiscal Classification	tab	44149000	tab	44149000	*save	*ML(18,65)
+Fiscal Classification	tab	44181100	tab	44181100	*save	*ML(18,65)
+Fiscal Classification	tab	44181900	tab	44181900	*save	*ML(18,65)
+Fiscal Classification	tab	44182100	tab	44182100	*save	*ML(18,65)
+Fiscal Classification	tab	44182900	tab	44182900	*save	*ML(18,65)
+Fiscal Classification	tab	44183000	tab	44183000	*save	*ML(18,65)
+Fiscal Classification	tab	44188100	tab	44188100	*save	*ML(18,65)
+Fiscal Classification	tab	44188200	tab	44188200	*save	*ML(18,65)
+Fiscal Classification	tab	44188300	tab	44188300	*save	*ML(18,65)
+Fiscal Classification	tab	44188900	tab	44188900	*save	*ML(18,65)
+Fiscal Classification	tab	44189100	tab	44189100	*save	*ML(18,65)
+Fiscal Classification	tab	44189200	tab	44189200	*save	*ML(18,65)
+Fiscal Classification	tab	44189900	tab	44189900	*save	*ML(18,65)
+Fiscal Classification	tab	44192000	tab	44192000	*save	*ML(18,65)
+Fiscal Classification	tab	44199000	tab	44199000	*save	*ML(18,65)
+Fiscal Classification	tab	44201100	tab	44201100	*save	*ML(18,65)
+Fiscal Classification	tab	44201900	tab	44201900	*save	*ML(18,65)
+Fiscal Classification	tab	44212000	tab	44212000	*save	*ML(18,65)
+Fiscal Classification	tab	44219100	tab	44219100	*save	*ML(18,65)
+Fiscal Classification	tab	49059000	tab	49059000	*save	*ML(18,65)
+Fiscal Classification	tab	49052000	tab	49052000	*save	*ML(18,65)
+Fiscal Classification	tab	55011100	tab	55011100	*save	*ML(18,65)
+Fiscal Classification	tab	55011900	tab	55011900	*save	*ML(18,65)
+Fiscal Classification	tab	57032100	tab	57032100	*save	*ML(18,65)
+Fiscal Classification	tab	57032900	tab	57032900	*save	*ML(18,65)
+Fiscal Classification	tab	57033100	tab	57033100	*save	*ML(18,65)
+Fiscal Classification	tab	57033900	tab	57033900	*save	*ML(18,65)
+Fiscal Classification	tab	58021000	tab	58021000	*save	*ML(18,65)
+Fiscal Classification	tab	62012000	tab	62012000	*save	*ML(18,65)
+Fiscal Classification	tab	62013000	tab	62013000	*save	*ML(18,65)
+Fiscal Classification	tab	62014000	tab	62014000	*save	*ML(18,65)
+Fiscal Classification	tab	62019000	tab	62019000	*save	*ML(18,65)
+Fiscal Classification	tab	62022000	tab	62022000	*save	*ML(18,65)
+Fiscal Classification	tab	62023000	tab	62023000	*save	*ML(18,65)
+Fiscal Classification	tab	62024000	tab	62024000	*save	*ML(18,65)
+Fiscal Classification	tab	62029000	tab	62029000	*save	*ML(18,65)
+Fiscal Classification	tab	68151100	tab	68151100	*save	*ML(18,65)
+Fiscal Classification	tab	68151200	tab	68151200	*save	*ML(18,65)
+Fiscal Classification	tab	68151300	tab	68151300	*save	*ML(18,65)
+Fiscal Classification	tab	68151900	tab	68151900	*save	*ML(18,65)
+Fiscal Classification	tab	70191300	tab	70191300	*save	*ML(18,65)
+Fiscal Classification	tab	70191400	tab	70191400	*save	*ML(18,65)
+Fiscal Classification	tab	70191500	tab	70191500	*save	*ML(18,65)
+Fiscal Classification	tab	70197100	tab	70197100	*save	*ML(18,65)
+Fiscal Classification	tab	70196200	tab	70196200	*save	*ML(18,65)
+Fiscal Classification	tab	70196900	tab	70196900	*save	*ML(18,65)
+Fiscal Classification	tab	70197200	tab	70197200	*save	*ML(18,65)
+Fiscal Classification	tab	70197390	tab	70197390	*save	*ML(18,65)
+Fiscal Classification	tab	70198000	tab	70198000	*save	*ML(18,65)
+Fiscal Classification	tab	70196100	tab	70196100	*save	*ML(18,65)
+Fiscal Classification	tab	70196500	tab	70196500	*save	*ML(18,65)
+Fiscal Classification	tab	70196600	tab	70196600	*save	*ML(18,65)
+Fiscal Classification	tab	70196300	tab	70196300	*save	*ML(18,65)
+Fiscal Classification	tab	70196400	tab	70196400	*save	*ML(18,65)
+Fiscal Classification	tab	70197310	tab	70197310	*save	*ML(18,65)
+Fiscal Classification	tab	71042100	tab	71042100	*save	*ML(18,65)
+Fiscal Classification	tab	71042900	tab	71042900	*save	*ML(18,65)
+Fiscal Classification	tab	71049100	tab	71049100	*save	*ML(18,65)
+Fiscal Classification	tab	71049900	tab	71049900	*save	*ML(18,65)
+Fiscal Classification	tab	71129100	tab	71129100	*save	*ML(18,65)
+Fiscal Classification	tab	71129200	tab	71129200	*save	*ML(18,65)
+Fiscal Classification	tab	71129900	tab	71129900	*save	*ML(18,65)
+Fiscal Classification	tab	74192000	tab	74192000	*save	*ML(18,65)
+Fiscal Classification	tab	74198090	tab	74198090	*save	*ML(18,65)
+Fiscal Classification	tab	74198010	tab	74198010	*save	*ML(18,65)
+Fiscal Classification	tab	74198020	tab	74198020	*save	*ML(18,65)
+Fiscal Classification	tab	74198030	tab	74198030	*save	*ML(18,65)
+Fiscal Classification	tab	74198040	tab	74198040	*save	*ML(18,65)
+Fiscal Classification	tab	81039100	tab	81039100	*save	*ML(18,65)
+Fiscal Classification	tab	81039900	tab	81039900	*save	*ML(18,65)
+Fiscal Classification	tab	81061000	tab	81061000	*save	*ML(18,65)
+Fiscal Classification	tab	81069000	tab	81069000	*save	*ML(18,65)
+Fiscal Classification	tab	81126900	tab	81126900	*save	*ML(18,65)
+Fiscal Classification	tab	81126100	tab	81126100	*save	*ML(18,65)
+Fiscal Classification	tab	81092100	tab	81092100	*save	*ML(18,65)
+Fiscal Classification	tab	81092900	tab	81092900	*save	*ML(18,65)
+Fiscal Classification	tab	81093100	tab	81093100	*save	*ML(18,65)
+Fiscal Classification	tab	81093900	tab	81093900	*save	*ML(18,65)
+Fiscal Classification	tab	81099100	tab	81099100	*save	*ML(18,65)
+Fiscal Classification	tab	81099900	tab	81099900	*save	*ML(18,65)
+Fiscal Classification	tab	81123100	tab	81123100	*save	*ML(18,65)
+Fiscal Classification	tab	81124100	tab	81124100	*save	*ML(18,65)
+Fiscal Classification	tab	81123900	tab	81123900	*save	*ML(18,65)
+Fiscal Classification	tab	81124900	tab	81124900	*save	*ML(18,65)
+Fiscal Classification	tab	84147000	tab	84147000	*save	*ML(18,65)
+Fiscal Classification	tab	84149040	tab	84149040	*save	*ML(18,65)
+Fiscal Classification	tab	84191200	tab	84191200	*save	*ML(18,65)
+Fiscal Classification	tab	84191900	tab	84191900	*save	*ML(18,65)
+Fiscal Classification	tab	84193300	tab	84193300	*save	*ML(18,65)
+Fiscal Classification	tab	84193400	tab	84193400	*save	*ML(18,65)
+Fiscal Classification	tab	84193500	tab	84193500	*save	*ML(18,65)
+Fiscal Classification	tab	84213200	tab	84213200	*save	*ML(18,65)
+Fiscal Classification	tab	84287000	tab	84287000	*save	*ML(18,65)
+Fiscal Classification	tab	84858000	tab	84858000	*save	*ML(18,65)
+Fiscal Classification	tab	84621900	tab	84621900	*save	*ML(18,65)
+Fiscal Classification	tab	84626100	tab	84626100	*save	*ML(18,65)
+Fiscal Classification	tab	84626200	tab	84626200	*save	*ML(18,65)
+Fiscal Classification	tab	84626300	tab	84626300	*save	*ML(18,65)
+Fiscal Classification	tab	84626900	tab	84626900	*save	*ML(18,65)
+Fiscal Classification	tab	84629000	tab	84629000	*save	*ML(18,65)
+Fiscal Classification	tab	84621100	tab	84621100	*save	*ML(18,65)
+Fiscal Classification	tab	84625100	tab	84625100	*save	*ML(18,65)
+Fiscal Classification	tab	84625900	tab	84625900	*save	*ML(18,65)
+Fiscal Classification	tab	84622200	tab	84622200	*save	*ML(18,65)
+Fiscal Classification	tab	84622300	tab	84622300	*save	*ML(18,65)
+Fiscal Classification	tab	84622400	tab	84622400	*save	*ML(18,65)
+Fiscal Classification	tab	84622500	tab	84622500	*save	*ML(18,65)
+Fiscal Classification	tab	84622600	tab	84622600	*save	*ML(18,65)
+Fiscal Classification	tab	84623200	tab	84623200	*save	*ML(18,65)
+Fiscal Classification	tab	84623300	tab	84623300	*save	*ML(18,65)
+Fiscal Classification	tab	84623900	tab	84623900	*save	*ML(18,65)
+Fiscal Classification	tab	84624200	tab	84624200	*save	*ML(18,65)
+Fiscal Classification	tab	84851000	tab	84851000	*save	*ML(18,65)
+Fiscal Classification	tab	84859000	tab	84859000	*save	*ML(18,65)
+Fiscal Classification	tab	84705010	tab	84705010	*save	*ML(18,65)
+Fiscal Classification	tab	84714100	tab	84714100	*save	*ML(18,65)
+Fiscal Classification	tab	84717010	tab	84717010	*save	*ML(18,65)
+Fiscal Classification	tab	84717020	tab	84717020	*save	*ML(18,65)
+Fiscal Classification	tab	84717030	tab	84717030	*save	*ML(18,65)
+Fiscal Classification	tab	84717040	tab	84717040	*save	*ML(18,65)
+Fiscal Classification	tab	84729020	tab	84729020	*save	*ML(18,65)
+Fiscal Classification	tab	85249100	tab	85249100	*save	*ML(18,65)
+Fiscal Classification	tab	85249200	tab	85249200	*save	*ML(18,65)
+Fiscal Classification	tab	85249900	tab	85249900	*save	*ML(18,65)
+Fiscal Classification	tab	84733090	tab	84733090	*save	*ML(18,65)
+Fiscal Classification	tab	84853000	tab	84853000	*save	*ML(18,65)
+Fiscal Classification	tab	84852000	tab	84852000	*save	*ML(18,65)
+Fiscal Classification	tab	84798300	tab	84798300	*save	*ML(18,65)
+Fiscal Classification	tab	85017100	tab	85017100	*save	*ML(18,65)
+Fiscal Classification	tab	85017210	tab	85017210	*save	*ML(18,65)
+Fiscal Classification	tab	85017290	tab	85017290	*save	*ML(18,65)
+Fiscal Classification	tab	85018000	tab	85018000	*save	*ML(18,65)
+Fiscal Classification	tab	85141100	tab	85141100	*save	*ML(18,65)
+Fiscal Classification	tab	85141900	tab	85141900	*save	*ML(18,65)
+Fiscal Classification	tab	85143900	tab	85143900	*save	*ML(18,65)
+Fiscal Classification	tab	85143200	tab	85143200	*save	*ML(18,65)
+Fiscal Classification	tab	85143100	tab	85143100	*save	*ML(18,65)
+Fiscal Classification	tab	85171410	tab	85171410	*save	*ML(18,65)
+Fiscal Classification	tab	85171490	tab	85171490	*save	*ML(18,65)
+Fiscal Classification	tab	85171300	tab	85171300	*save	*ML(18,65)
+Fiscal Classification	tab	85171431	tab	85171431	*save	*ML(18,65)
+Fiscal Classification	tab	85171432	tab	85171432	*save	*ML(18,65)
+Fiscal Classification	tab	85171439	tab	85171439	*save	*ML(18,65)
+Fiscal Classification	tab	85171441	tab	85171441	*save	*ML(18,65)
+Fiscal Classification	tab	85171449	tab	85171449	*save	*ML(18,65)
+Fiscal Classification	tab	85176256	tab	85176256	*save	*ML(18,65)
+Fiscal Classification	tab	85176273	tab	85176273	*save	*ML(18,65)
+Fiscal Classification	tab	85171890	tab	85171890	*save	*ML(18,65)
+Fiscal Classification	tab	85171830	tab	85171830	*save	*ML(18,65)
+Fiscal Classification	tab	85176215	tab	85176215	*save	*ML(18,65)
+Fiscal Classification	tab	85176234	tab	85176234	*save	*ML(18,65)
+Fiscal Classification	tab	85177900	tab	85177900	*save	*ML(18,65)
+Fiscal Classification	tab	85177110	tab	85177110	*save	*ML(18,65)
+Fiscal Classification	tab	85177190	tab	85177190	*save	*ML(18,65)
+Fiscal Classification	tab	85229000	tab	85229000	*save	*ML(18,65)
+Fiscal Classification	tab	85241100	tab	85241100	*save	*ML(18,65)
+Fiscal Classification	tab	85241200	tab	85241200	*save	*ML(18,65)
+Fiscal Classification	tab	85241900	tab	85241900	*save	*ML(18,65)
+Fiscal Classification	tab	85258100	tab	85258100	*save	*ML(18,65)
+Fiscal Classification	tab	85258200	tab	85258200	*save	*ML(18,65)
+Fiscal Classification	tab	85258300	tab	85258300	*save	*ML(18,65)
+Fiscal Classification	tab	85258911	tab	85258911	*save	*ML(18,65)
+Fiscal Classification	tab	85258912	tab	85258912	*save	*ML(18,65)
+Fiscal Classification	tab	88062100	tab	88062100	*save	*ML(18,65)
+Fiscal Classification	tab	88062200	tab	88062200	*save	*ML(18,65)
+Fiscal Classification	tab	88062300	tab	88062300	*save	*ML(18,65)
+Fiscal Classification	tab	88062400	tab	88062400	*save	*ML(18,65)
+Fiscal Classification	tab	88062900	tab	88062900	*save	*ML(18,65)
+Fiscal Classification	tab	88069100	tab	88069100	*save	*ML(18,65)
+Fiscal Classification	tab	88069200	tab	88069200	*save	*ML(18,65)
+Fiscal Classification	tab	88069300	tab	88069300	*save	*ML(18,65)
+Fiscal Classification	tab	88069400	tab	88069400	*save	*ML(18,65)
+Fiscal Classification	tab	88069900	tab	88069900	*save	*ML(18,65)
+Fiscal Classification	tab	85258913	tab	85258913	*save	*ML(18,65)
+Fiscal Classification	tab	85258914	tab	85258914	*save	*ML(18,65)
+Fiscal Classification	tab	85258919	tab	85258919	*save	*ML(18,65)
+Fiscal Classification	tab	85258921	tab	85258921	*save	*ML(18,65)
+Fiscal Classification	tab	85258922	tab	85258922	*save	*ML(18,65)
+Fiscal Classification	tab	85258929	tab	85258929	*save	*ML(18,65)
+Fiscal Classification	tab	85271900	tab	85271900	*save	*ML(18,65)
+Fiscal Classification	tab	85284200	tab	85284200	*save	*ML(18,65)
+Fiscal Classification	tab	85284990	tab	85284990	*save	*ML(18,65)
+Fiscal Classification	tab	85284930	tab	85284930	*save	*ML(18,65)
+Fiscal Classification	tab	85285200	tab	85285200	*save	*ML(18,65)
+Fiscal Classification	tab	85285900	tab	85285900	*save	*ML(18,65)
+Fiscal Classification	tab	85291020	tab	85291020	*save	*ML(18,65)
+Fiscal Classification	tab	85299050	tab	85299050	*save	*ML(18,65)
+Fiscal Classification	tab	85395200	tab	85395200	*save	*ML(18,65)
+Fiscal Classification	tab	85395100	tab	85395100	*save	*ML(18,65)
+Fiscal Classification	tab	85414111	tab	85414111	*save	*ML(18,65)
+Fiscal Classification	tab	85414112	tab	85414112	*save	*ML(18,65)
+Fiscal Classification	tab	85414290	tab	85414290	*save	*ML(18,65)
+Fiscal Classification	tab	85414210	tab	85414210	*save	*ML(18,65)
+Fiscal Classification	tab	85414220	tab	85414220	*save	*ML(18,65)
+Fiscal Classification	tab	85414900	tab	85414900	*save	*ML(18,65)
+Fiscal Classification	tab	85414121	tab	85414121	*save	*ML(18,65)
+Fiscal Classification	tab	85414122	tab	85414122	*save	*ML(18,65)
+Fiscal Classification	tab	85414123	tab	85414123	*save	*ML(18,65)
+Fiscal Classification	tab	85414124	tab	85414124	*save	*ML(18,65)
+Fiscal Classification	tab	85414300	tab	85414300	*save	*ML(18,65)
+Fiscal Classification	tab	85415100	tab	85415100	*save	*ML(18,65)
+Fiscal Classification	tab	85415900	tab	85415900	*save	*ML(18,65)
+Fiscal Classification	tab	85429000	tab	85429000	*save	*ML(18,65)
+Fiscal Classification	tab	85434000	tab	85434000	*save	*ML(18,65)
+Fiscal Classification	tab	85491100	tab	85491100	*save	*ML(18,65)
+Fiscal Classification	tab	85491200	tab	85491200	*save	*ML(18,65)
+Fiscal Classification	tab	85491300	tab	85491300	*save	*ML(18,65)
+Fiscal Classification	tab	85491400	tab	85491400	*save	*ML(18,65)
+Fiscal Classification	tab	85491900	tab	85491900	*save	*ML(18,65)
+Fiscal Classification	tab	85480010	tab	85480010	*save	*ML(18,65)
+Fiscal Classification	tab	85480090	tab	85480090	*save	*ML(18,65)
+Fiscal Classification	tab	85492100	tab	85492100	*save	*ML(18,65)
+Fiscal Classification	tab	85492900	tab	85492900	*save	*ML(18,65)
+Fiscal Classification	tab	85493100	tab	85493100	*save	*ML(18,65)
+Fiscal Classification	tab	85493900	tab	85493900	*save	*ML(18,65)
+Fiscal Classification	tab	85499100	tab	85499100	*save	*ML(18,65)
+Fiscal Classification	tab	85499900	tab	85499900	*save	*ML(18,65)
+Fiscal Classification	tab	87012100	tab	87012100	*save	*ML(18,65)
+Fiscal Classification	tab	87012200	tab	87012200	*save	*ML(18,65)
+Fiscal Classification	tab	87012300	tab	87012300	*save	*ML(18,65)
+Fiscal Classification	tab	87012400	tab	87012400	*save	*ML(18,65)
+Fiscal Classification	tab	87012900	tab	87012900	*save	*ML(18,65)
+Fiscal Classification	tab	87044100	tab	87044100	*save	*ML(18,65)
+Fiscal Classification	tab	87044200	tab	87044200	*save	*ML(18,65)
+Fiscal Classification	tab	87044300	tab	87044300	*save	*ML(18,65)
+Fiscal Classification	tab	87042340	tab	87042340	*save	*ML(18,65)
+Fiscal Classification	tab	87045100	tab	87045100	*save	*ML(18,65)
+Fiscal Classification	tab	87045200	tab	87045200	*save	*ML(18,65)
+Fiscal Classification	tab	87046000	tab	87046000	*save	*ML(18,65)
+Fiscal Classification	tab	87082200	tab	87082200	*save	*ML(18,65)
+Fiscal Classification	tab	88061000	tab	88061000	*save	*ML(18,65)
+Fiscal Classification	tab	88071000	tab	88071000	*save	*ML(18,65)
+Fiscal Classification	tab	88072000	tab	88072000	*save	*ML(18,65)
+Fiscal Classification	tab	88073000	tab	88073000	*save	*ML(18,65)
+Fiscal Classification	tab	88079000	tab	88079000	*save	*ML(18,65)
+Fiscal Classification	tab	89031100	tab	89031100	*save	*ML(18,65)
+Fiscal Classification	tab	89031200	tab	89031200	*save	*ML(18,65)
+Fiscal Classification	tab	89031900	tab	89031900	*save	*ML(18,65)
+Fiscal Classification	tab	89032100	tab	89032100	*save	*ML(18,65)
+Fiscal Classification	tab	89032200	tab	89032200	*save	*ML(18,65)
+Fiscal Classification	tab	89032300	tab	89032300	*save	*ML(18,65)
+Fiscal Classification	tab	89033100	tab	89033100	*save	*ML(18,65)
+Fiscal Classification	tab	89033200	tab	89033200	*save	*ML(18,65)
+Fiscal Classification	tab	89033300	tab	89033300	*save	*ML(18,65)
+Fiscal Classification	tab	89039300	tab	89039300	*save	*ML(18,65)
+Fiscal Classification	tab	90065959	tab	90065959	*save	*ML(18,65)
+Fiscal Classification	tab	90065940	tab	90065940	*save	*ML(18,65)
+Fiscal Classification	tab	90138000	tab	90138000	*save	*ML(18,65)
+Fiscal Classification	tab	90229010	tab	90229010	*save	*ML(18,65)
+Fiscal Classification	tab	90229020	tab	90229020	*save	*ML(18,65)
+Fiscal Classification	tab	90229091	tab	90229091	*save	*ML(18,65)
+Fiscal Classification	tab	90278911	tab	90278911	*save	*ML(18,65)
+Fiscal Classification	tab	90278912	tab	90278912	*save	*ML(18,65)
+Fiscal Classification	tab	90278913	tab	90278913	*save	*ML(18,65)
+Fiscal Classification	tab	90278914	tab	90278914	*save	*ML(18,65)
+Fiscal Classification	tab	90278100	tab	90278100	*save	*ML(18,65)
+Fiscal Classification	tab	90278920	tab	90278920	*save	*ML(18,65)
+Fiscal Classification	tab	90278991	tab	90278991	*save	*ML(18,65)
+Fiscal Classification	tab	91149000	tab	91149000	*save	*ML(18,65)
+Fiscal Classification	tab	94013100	tab	94013100	*save	*ML(18,65)
+Fiscal Classification	tab	94013900	tab	94013900	*save	*ML(18,65)
+Fiscal Classification	tab	94014100	tab	94014100	*save	*ML(18,65)
+Fiscal Classification	tab	94014900	tab	94014900	*save	*ML(18,65)
+Fiscal Classification	tab	94019100	tab	94019100	*save	*ML(18,65)
+Fiscal Classification	tab	94019900	tab	94019900	*save	*ML(18,65)
+Fiscal Classification	tab	94039100	tab	94039100	*save	*ML(18,65)
+Fiscal Classification	tab	94039900	tab	94039900	*save	*ML(18,65)
+Fiscal Classification	tab	94044000	tab	94044000	*save	*ML(18,65)
+Fiscal Classification	tab	94051110	tab	94051110	*save	*ML(18,65)
+Fiscal Classification	tab	94051910	tab	94051910	*save	*ML(18,65)
+Fiscal Classification	tab	94051190	tab	94051190	*save	*ML(18,65)
+Fiscal Classification	tab	94051990	tab	94051990	*save	*ML(18,65)
+Fiscal Classification	tab	94052100	tab	94052100	*save	*ML(18,65)
+Fiscal Classification	tab	94052900	tab	94052900	*save	*ML(18,65)
+Fiscal Classification	tab	94053100	tab	94053100	*save	*ML(18,65)
+Fiscal Classification	tab	94053900	tab	94053900	*save	*ML(18,65)
+Fiscal Classification	tab	94054100	tab	94054100	*save	*ML(18,65)
+Fiscal Classification	tab	94054200	tab	94054200	*save	*ML(18,65)
+Fiscal Classification	tab	94054900	tab	94054900	*save	*ML(18,65)
+Fiscal Classification	tab	94056100	tab	94056100	*save	*ML(18,65)
+Fiscal Classification	tab	94056900	tab	94056900	*save	*ML(18,65)
+Fiscal Classification	tab	94062000	tab	94062000	*save	*ML(18,65)
+Fiscal Classification	tab	95082110	tab	95082110	*save	*ML(18,65)
+Fiscal Classification	tab	95082120	tab	95082120	*save	*ML(18,65)
+Fiscal Classification	tab	95082190	tab	95082190	*save	*ML(18,65)
+Fiscal Classification	tab	95082290	tab	95082290	*save	*ML(18,65)
+Fiscal Classification	tab	95082210	tab	95082210	*save	*ML(18,65)
+Fiscal Classification	tab	95082300	tab	95082300	*save	*ML(18,65)
+Fiscal Classification	tab	95082400	tab	95082400	*save	*ML(18,65)
+Fiscal Classification	tab	95082600	tab	95082600	*save	*ML(18,65)
+Fiscal Classification	tab	95082500	tab	95082500	*save	*ML(18,65)
+Fiscal Classification	tab	95082900	tab	95082900	*save	*ML(18,65)
+Fiscal Classification	tab	95083000	tab	95083000	*save	*ML(18,65)
+Fiscal Classification	tab	95084000	tab	95084000	*save	*ML(18,65)
+Fiscal Classification	tab	96121000	tab	96121000	*save	*ML(18,65)
+Fiscal Classification	tab	97012100	tab	97012100	*save	*ML(18,65)
+Fiscal Classification	tab	97019100	tab	97019100	*save	*ML(18,65)
+Fiscal Classification	tab	97012200	tab	97012200	*save	*ML(18,65)
+Fiscal Classification	tab	97012900	tab	97012900	*save	*ML(18,65)
+Fiscal Classification	tab	97019200	tab	97019200	*save	*ML(18,65)
+Fiscal Classification	tab	97019900	tab	97019900	*save	*ML(18,65)
+Fiscal Classification	tab	97021000	tab	97021000	*save	*ML(18,65)
+Fiscal Classification	tab	97029000	tab	97029000	*save	*ML(18,65)
+Fiscal Classification	tab	97031000	tab	97031000	*save	*ML(18,65)
+Fiscal Classification	tab	97039000	tab	97039000	*save	*ML(18,65)
+Fiscal Classification	tab	97051000	tab	97051000	*save	*ML(18,65)
+Fiscal Classification	tab	97052100	tab	97052100	*save	*ML(18,65)
+Fiscal Classification	tab	97052200	tab	97052200	*save	*ML(18,65)
+Fiscal Classification	tab	97052900	tab	97052900	*save	*ML(18,65)
+Fiscal Classification	tab	97053100	tab	97053100	*save	*ML(18,65)
+Fiscal Classification	tab	97053900	tab	97053900	*save	*ML(18,65)
+Fiscal Classification	tab	97061000	tab	97061000	*save	*ML(18,65)
+Fiscal Classification	tab	97069000	tab	97069000	*save	*ML(18,65)
+enddata
+beginoptions
+AutoTab=false
+HourGlass=false
+AutoInsert=true
+ProgressBar=true
+TitleSize=false
+DataColour=16777215
+CommandColour=16777215
+KeystrokeColour=16777215
+DataSource=0
+ImportLoad=0
+EnableMacro=1
+DatePicker=1
+LegacyKeyMode=0
+IEOnly=0
+StopIfNotIE=0
+LoadControl=0
+UseBC=0
+SkipBlank=1
+Protection=￶�￶�￮￥￮￥￦￭￦￭￮￥￮￥￶�￶�ￎￅￎￅￆￍￆￍￎￅￎￅ￶�￶�￮￥￮￥￦￭￦￭￮￥￮￥￶�￶�%CR%%CR%v}v}nenefmfmnenev}v}NE
+endoptions
+beginformat
+FontName=Default
+FontSize=8
+endformat
+begincommands
+Command	EBS - R12	EBS - 11i	EBS - 10.7/11.0 NCA	EBS - 10.7SC	Siebel	SAP	Peoplesoft	JDE	Dynamics	Other	Description
+TAB	\{TAB}	\{TAB}	\{TAB}	\{TAB}	\{TAB}	\{TAB}	\{TAB}	\{TAB}	\{TAB}	\{TAB}	TAB key
+ENT	\{ENTER}	\{ENTER}	\{ENTER}	\{ENTER}	\{ENTER}	\{ENTER}	\{ENTER}	\{ENTER}	\{ENTER}	\{ENTER}	Enter key
+*UP	\{UP}	\{UP}	\{UP}	\{UP}	\{UP}	\{UP}	\{UP}	\{UP}	\{UP}	\{UP}	Up arrow key
+*DN	\{DOWN}	\{DOWN}	\{DOWN}	\{DOWN}	\{DOWN}	\{DOWN}	\{DOWN}	\{DOWN}	\{DOWN}	\{DOWN}	Down arrow key
+*LT	\{LEFT}	\{LEFT}	\{LEFT}	\{LEFT}	\{LEFT}	\{LEFT}	\{LEFT}	\{LEFT}	\{LEFT}	\{LEFT}	Left arrow key
+*RT	\{RIGHT}	\{RIGHT}	\{RIGHT}	\{RIGHT}	\{RIGHT}	\{RIGHT}	\{RIGHT}	\{RIGHT}	\{RIGHT}	\{RIGHT}	Right arrow key
+*SP	\%F%V	\%F%V	\%A%{DOWN 4}{ENTER}	\%A%A							Save & proceed
+*SAVE	\^S	\^S	\^S	\{F10}							Save
+*NB	\+{PGDN}	\+{PGDN}	\+{PGDN}	\^{PGDN}							Next Block
+*PB	\+{PGUP}	\+{PGUP}	\+{PGUP}	\^{PGUP}							Previous Block
+*NF	\{TAB}	\{TAB}	\%G%{DOWN}{ENTER}	\{TAB}							Next Field
+*PF	\+{TAB}	\+{TAB}	\%G%{DOWN 2}{ENTER}	\+{TAB}							Previous Field
+*NR	\{DOWN}	\{DOWN}	\%G%{DOWN 3}{ENTER}	\+{DOWN}							Next record
+*PR	\{UP}	\{UP}	\%G%{DOWN 4}{ENTER}	\+{UP}							Previous record
+*FR	\%V%DF	\%V%DF	\%G%{DOWN 5}{ENTER}	\%G%F							First record
+*LR	\%V%DL	\%V%DL	\%G%{DOWN 6}{ENTER}	\%G%L							Last record
+*ER	\{F6}	\{F6}	\{F6}	\+{F4}							Erase record
+*DR	\^{UP}	\^{UP}	\^{UP}	\+{F6}							Delete record
+*SB	\ 	\ 	\ 	\ 	\ 	\ 	\ 	\ 	\ 	\ 	Space bar
+*ST	\{HOME}+{END}	\{HOME}+{END}	\{HOME}+{END}	\{HOME}+{END}	\{HOME}+{END}	\{HOME}+{END}	\{HOME}+{END}	\{HOME}+{END}	\{HOME}+{END}	\{HOME}+{END}	Select field text
+*BM	\^B	\^B	\^B	\{F5}							Block menu
+*QE	\{F11}	\{F11}	\{F11}	\{F7}							Query enter
+*QR	\^{F11}	\^{F11}	\^{F11}	\{F8}							Query run
+*FI	\%V%F	\%V%F	\%Q%{DOWN}{ENTER}								Find
+*FA	\%V%I	\%V%I	\%Q%{DOWN 2}{ENTER}								Find all
+*IR	\^{DOWN}	\^{DOWN}	\^{DOWN}	\{F6}							Insert record
+*CL	\{F5}	\{F5}	\{F5}	\^U							Clear field
+*FE	\^E	\^E	\^E	\^E							Field edit
+*AA	\%A	\%A	\%A	\%A	\%A	\%A	\%A	\%A	\%A	\%A	Alt A
+*AB	\%B	\%B	\%B	\%B	\%B	\%B	\%B	\%B	\%B	\%B	Alt B
+*AC	\%C	\%C	\%C	\%C	\%C	\%C	\%C	\%C	\%C	\%C	Alt C
+*AD	\%D	\%D	\%D	\%D	\%D	\%D	\%D	\%D	\%D	\%D	Alt D
+*AE	\%E	\%E	\%E	\%E	\%E	\%E	\%E	\%E	\%E	\%E	Alt E
+*AF	\%F	\%F	\%F	\%F	\%F	\%F	\%F	\%F	\%F	\%F	Alt F
+*AG	\%G	\%G	\%G	\%G	\%G	\%G	\%G	\%G	\%G	\%G	Alt G
+*AH	\%H	\%H	\%H	\%H	\%H	\%H	\%H	\%H	\%H	\%H	Alt H
+*AI	\%I	\%I	\%I	\%I	\%I	\%I	\%I	\%I	\%I	\%I	Alt I
+*AJ	\%J	\%J	\%J	\%J	\%J	\%J	\%J	\%J	\%J	\%J	Alt J
+*AK	\%K	\%K	\%K	\%K	\%K	\%K	\%K	\%K	\%K	\%K	Alt K
+*AL	\%L	\%L	\%L	\%L	\%L	\%L	\%L	\%L	\%L	\%L	Alt L
+*AM	\%M	\%M	\%M	\%M	\%M	\%M	\%M	\%M	\%M	\%M	Alt M
+*AN	\%N	\%N	\%N	\%N	\%N	\%N	\%N	\%N	\%N	\%N	Alt N
+*AO	\%O	\%O	\%O	\%O	\%O	\%O	\%O	\%O	\%O	\%O	Alt O
+*AP	\%P	\%P	\%P	\%P	\%P	\%P	\%P	\%P	\%P	\%P	Alt P
+*AQ	\%Q	\%Q	\%Q	\%Q	\%Q	\%Q	\%Q	\%Q	\%Q	\%Q	Alt Q
+*AR	\%R	\%R	\%R	\%R	\%R	\%R	\%R	\%R	\%R	\%R	Alt R
+*AS	\%S	\%S	\%S	\%S	\%S	\%S	\%S	\%S	\%S	\%S	Alt S
+*AT	\%T	\%T	\%T	\%T	\%T	\%T	\%T	\%T	\%T	\%T	Alt T
+*AU	\%U	\%U	\%U	\%U	\%U	\%U	\%U	\%U	\%U	\%U	Alt U
+*AV	\%V	\%V	\%V	\%V	\%V	\%V	\%V	\%V	\%V	\%V	Alt V
+*AW	\%W	\%W	\%W	\%W	\%W	\%W	\%W	\%W	\%W	\%W	Alt W
+*AX	\%X	\%X	\%X	\%X	\%X	\%X	\%X	\%X	\%X	\%X	Alt X
+*AY	\%Y	\%Y	\%Y	\%Y	\%Y	\%Y	\%Y	\%Y	\%Y	\%Y	Alt Y
+*AZ	\%Z	\%Z	\%Z	\%Z	\%Z	\%Z	\%Z	\%Z	\%Z	\%Z	Alt Z
+endcommands
+beginhdrgrid
+																																																																																																			
+
+0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+begindata
+enddata
+endhdrgrid
+beginftrgrid
+																																																																																																		
+
+000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+begindata
+enddata
+endftrgrid
